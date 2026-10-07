@@ -1,0 +1,22 @@
+{
+  "status": "studied",
+  "video_id": "eT5_IYihoDI",
+  "url": "https://www.youtube.com/watch?v=eT5_IYihoDI",
+  "title": "Easiest way to find a diamonds #minecraft don’t check the sound",
+  "channel": "Riss",
+  "length_seconds": 11,
+  "captions_available": true,
+  "caption_language": "a.en",
+  "transcript": "If you find a clay patch in a river,\ncongrats, you just found diamonds. Just\ncount two blocks from the center of the\nclay patch in the plus Z direction, then\ndig straight down. Nine times out of 10,\nyou'll hit a diamond vein. It's really\nthat simple.",
+  "techniques": [
+    "branch_mining"
+  ],
+  "evidence": {
+    "branch_mining": [
+      "two block"
+    ]
+  },
+  "y_levels": [],
+  "summary": "Transcript evidence suggests: branch/strip mining.",
+  "studied_at": 1789677553.5730047
+}

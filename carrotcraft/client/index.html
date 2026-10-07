@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CarrotCraft headless client</title>
+  <style>
+    body { margin: 0; background: #101418; color: #e8eef5; font: 14px/1.5 ui-monospace, Menlo, Consolas, monospace; }
+    main { max-width: 780px; margin: 0 auto; padding: 24px; }
+    h1 { font-size: 18px; margin: 0 0 4px; }
+    p { color: #9fb0c0; margin: 0 0 16px; }
+    #status { padding: 10px 12px; border-radius: 8px; background: #1b2229; border: 1px solid #2b3541; margin-bottom: 12px; }
+    button { background: #2d6cdf; color: #fff; border: 0; padding: 8px 14px; border-radius: 6px; cursor: pointer; }
+    pre { background: #0b0f13; border: 1px solid #2b3541; border-radius: 8px; padding: 10px; height: 320px; overflow: auto; white-space: pre-wrap; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>CarrotCraft headless client</h1>
+  <p>Joins <code>wss://eagler.carrot-craft.org</code> and the local AI bridge straight from the browser.
+     Pass <code>?username=AI_Bot&amp;server=wss://...&amp;bridge=ws://127.0.0.1:8765</code> to override.</p>
+  <div id="status">idle</div>
+  <button id="run">Connect</button>
+  <pre id="out"></pre>
+</main>
+
+<script src="headless_client.js"></script>
+<script>
+  const out = document.getElementById("out");
+  const status = document.getElementById("status");
+  const print = (line) => { out.textContent += line + "\n"; out.scrollTop = out.scrollHeight; };
+
+  document.getElementById("run").addEventListener("click", function () {
+    const params = new URLSearchParams(location.search);
+    const client = new CarrotCraftHeadless.HeadlessClient({
+      username: params.get("username") || "AI_Bot",
+      serverUrl: params.get("server") || undefined,
+      bridgeUrl: params.get("bridge") || undefined
+    });
+    client.log = function () { print(Array.prototype.join.call(arguments, " ")); };
+    window.client = client;
+    client.connect();
+    client.connectBridge();
+    setInterval(function () {
+      const state = client.snapshot();
+      status.textContent = "status: " + state.player.status
+        + " · pos " + state.player.x + ", " + state.player.y + ", " + state.player.z
+        + " · blocks " + state.blocks.length
+        + " · inventory " + Object.keys(state.inventory).length;
+    }, 500);
+  });
+</script>
+</body>
+</html>

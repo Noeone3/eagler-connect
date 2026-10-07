@@ -1,0 +1,1083 @@
+1
+00:00:00,080 --> 00:00:04,000
+If you're still strip mining at Y 11,
+
+2
+00:00:02,560 --> 00:00:06,319
+you're wasting hours for [music]
+
+3
+00:00:04,000 --> 00:00:08,160
+basically nothing. Diamond spawning
+
+4
+00:00:06,319 --> 00:00:10,320
+completely changed in the last few
+
+5
+00:00:08,160 --> 00:00:12,320
+updates. And there's now one method
+
+6
+00:00:10,320 --> 00:00:14,240
+that's four times faster than
+
+7
+00:00:12,320 --> 00:00:16,160
+traditional strip mining, and most
+
+8
+00:00:14,240 --> 00:00:17,760
+players have never even heard of it.
+
+9
+00:00:16,160 --> 00:00:19,760
+Spoiler, it's not praying to the
+
+10
+00:00:17,760 --> 00:00:21,680
+Minecraft gods and hoping for the best,
+
+11
+00:00:19,760 --> 00:00:23,039
+though I've definitely tried that. By
+
+12
+00:00:21,680 --> 00:00:25,359
+the end of the video, you'll know
+
+13
+00:00:23,039 --> 00:00:27,680
+exactly what it is. But first, you need
+
+14
+00:00:25,359 --> 00:00:30,000
+to understand one critical thing.
+
+15
+00:00:27,680 --> 00:00:33,120
+Diamonds don't spawn like they used to.
+
+16
+00:00:30,000 --> 00:00:34,480
+The 1.18 update completely changed the
+
+17
+00:00:33,120 --> 00:00:36,025
+game. And if you don't know these
+
+18
+00:00:34,480 --> 00:00:38,559
+mechanics, you're going to waste hours
+
+19
+00:00:36,025 --> 00:00:41,520
+[music] in the wrong places. So, why
+
+20
+00:00:38,559 --> 00:00:45,200
+doesn't Y1 work anymore? Simple.
+
+21
+00:00:41,520 --> 00:00:48,640
+Diamonds now spawn from Y16 down to Y
+
+22
+00:00:45,200 --> 00:00:50,719
+-64. And here's the key. The deeper you
+
+23
+00:00:48,640 --> 00:00:54,399
+go, the more diamonds you find. [music]
+
+24
+00:00:50,719 --> 00:00:58,079
+At Y6, they're basically non-existent.
+
+25
+00:00:54,399 --> 00:01:00,719
+at Y - [music] 58 to -64. They're
+
+26
+00:00:58,079 --> 00:01:04,479
+everywhere. Now, you might think, okay,
+
+27
+00:01:00,719 --> 00:01:06,720
+I'll just mine at Y - 64, then Wrong.
+
+28
+00:01:04,479 --> 00:01:09,439
+Below Y60, Bedrock [music]
+
+29
+00:01:06,720 --> 00:01:14,479
+starts replacing diamond spawns. So, the
+
+30
+00:01:09,439 --> 00:01:16,880
+actual sweet spot is Y - 58 or Y - 59,
+
+31
+00:01:14,479 --> 00:01:19,680
+around there. Deep enough for maximum
+
+32
+00:01:16,880 --> 00:01:21,360
+diamonds, high enough to avoid bedrock.
+
+33
+00:01:19,680 --> 00:01:23,439
+Remember that number. One more thing
+
+34
+00:01:21,360 --> 00:01:27,115
+before we jump into the methods. Diamond
+
+35
+00:01:23,439 --> 00:01:29,840
+veins are now much larger. Pre 1.18,
+
+36
+00:01:27,115 --> 00:01:33,439
+[music] you'd find eight diamonds max in
+
+37
+00:01:29,840 --> 00:01:35,520
+a vein. Now, you can hit 10, 12, even
+
+38
+00:01:33,439 --> 00:01:38,000
+bigger clusters. This matters because
+
+39
+00:01:35,520 --> 00:01:39,840
+some methods expose way more diamond
+
+40
+00:01:38,000 --> 00:01:41,920
+veins than others. [music] And there's
+
+41
+00:01:39,840 --> 00:01:43,439
+one method in particular, the one I
+
+42
+00:01:41,920 --> 00:01:45,119
+mentioned at the start, that takes
+
+43
+00:01:43,439 --> 00:01:47,360
+advantage of a hidden mechanic [music]
+
+44
+00:01:45,119 --> 00:01:49,360
+most players don't even know exists. But
+
+45
+00:01:47,360 --> 00:01:50,960
+we'll get to that. First, let's start
+
+46
+00:01:49,360 --> 00:01:53,040
+with the foundation. [music] The most
+
+47
+00:01:50,960 --> 00:01:55,360
+straightforward approach is strip
+
+48
+00:01:53,040 --> 00:01:57,840
+mining. Despite what people say, strip
+
+49
+00:01:55,360 --> 00:02:00,079
+mining is still viable. It just needs to
+
+50
+00:01:57,840 --> 00:02:03,759
+be done correctly. First, get yourself
+
+51
+00:02:00,079 --> 00:02:06,159
+down to Y levelus 58. The most efficient
+
+52
+00:02:03,759 --> 00:02:08,319
+way is to dig a staircase down, placing
+
+53
+00:02:06,159 --> 00:02:09,840
+torches as you go to prevent mob spawns.
+
+54
+00:02:08,319 --> 00:02:12,000
+Once you're at the right level, you're
+
+55
+00:02:09,840 --> 00:02:14,080
+going to create a main tunnel. I
+
+56
+00:02:12,000 --> 00:02:16,239
+recommend making it three blocks wide
+
+57
+00:02:14,080 --> 00:02:18,160
+and two blocks tall. This gives you room
+
+58
+00:02:16,239 --> 00:02:20,080
+to move and see clearly. From this
+
+59
+00:02:18,160 --> 00:02:22,480
+tunnel, you'll branch out with smaller
+
+60
+00:02:20,080 --> 00:02:25,120
+tunnels. These should be one block wide
+
+61
+00:02:22,480 --> 00:02:27,680
+and two blocks tall. Mine these branches
+
+62
+00:02:25,120 --> 00:02:30,319
+perpendicular to your main tunnel. And
+
+63
+00:02:27,680 --> 00:02:33,200
+here's the key. Leave exactly two blocks
+
+64
+00:02:30,319 --> 00:02:35,440
+between each branch tunnel. This ensures
+
+65
+00:02:33,200 --> 00:02:37,920
+you're exposing enough new blocks to
+
+66
+00:02:35,440 --> 00:02:40,400
+find diamonds without wasting effort
+
+67
+00:02:37,920 --> 00:02:42,720
+mining the same area twice. Because
+
+68
+00:02:40,400 --> 00:02:44,720
+unlike my personal life, we actually
+
+69
+00:02:42,720 --> 00:02:47,680
+want to be efficient with our tunnels.
+
+70
+00:02:44,720 --> 00:02:50,400
+How far should each branch extend? about
+
+71
+00:02:47,680 --> 00:02:52,319
+30 to 40 blocks is optimal. If you
+
+72
+00:02:50,400 --> 00:02:54,640
+haven't found anything by then, head
+
+73
+00:02:52,319 --> 00:02:57,360
+back and start a new branch. This
+
+74
+00:02:54,640 --> 00:02:59,599
+systematic approach covers a large area
+
+75
+00:02:57,360 --> 00:03:01,840
+efficiently. And now, let's talk about
+
+76
+00:02:59,599 --> 00:03:04,400
+lighting because mob spawning mechanics
+
+77
+00:03:01,840 --> 00:03:07,680
+changed in the last few years, too. Mobs
+
+78
+00:03:04,400 --> 00:03:10,000
+now only spawn at light level zero, not
+
+79
+00:03:07,680 --> 00:03:12,239
+light level seven like before. This
+
+80
+00:03:10,000 --> 00:03:14,879
+means you can place torches every 12
+
+81
+00:03:12,239 --> 00:03:17,680
+blocks instead of every six, which saves
+
+82
+00:03:14,879 --> 00:03:20,239
+resources significantly on longer mining
+
+83
+00:03:17,680 --> 00:03:22,319
+sessions. Your coal reserves will thank
+
+84
+00:03:20,239 --> 00:03:24,640
+you, and so will your sanity after you
+
+85
+00:03:22,319 --> 00:03:26,480
+realize you don't need to craft 400
+
+86
+00:03:24,640 --> 00:03:29,040
+torches for a single mining trip
+
+87
+00:03:26,480 --> 00:03:31,519
+anymore. Now, let's talk about natural
+
+88
+00:03:29,040 --> 00:03:34,000
+caves, which after the cave generation
+
+89
+00:03:31,519 --> 00:03:36,159
+overhaul are actually one of the best
+
+90
+00:03:34,000 --> 00:03:38,959
+diamond sources in the game. The new
+
+91
+00:03:36,159 --> 00:03:40,959
+cave systems are massive. They extend to
+
+92
+00:03:38,959 --> 00:03:42,720
+the deepest levels. They're full of
+
+93
+00:03:40,959 --> 00:03:44,959
+interesting terrain. And more
+
+94
+00:03:42,720 --> 00:03:46,959
+importantly, they expose an enormous
+
+95
+00:03:44,959 --> 00:03:48,879
+number of blocks. When you're strip
+
+96
+00:03:46,959 --> 00:03:51,680
+mining, you're only exposing the blocks
+
+97
+00:03:48,879 --> 00:03:54,080
+you're actively breaking. In a cave,
+
+98
+00:03:51,680 --> 00:03:57,040
+thousands of blocks are already exposed
+
+99
+00:03:54,080 --> 00:04:00,080
+on the walls, ceiling, and floor.
+
+100
+00:03:57,040 --> 00:04:01,920
+Minecraft did the mining work for you.
+
+101
+00:04:00,080 --> 00:04:04,000
+It's like showing up to an exam and
+
+102
+00:04:01,920 --> 00:04:05,760
+finding out it's open book, except the
+
+103
+00:04:04,000 --> 00:04:08,159
+book is trying to kill you with
+
+104
+00:04:05,760 --> 00:04:10,159
+skeletons. And there is one specific
+
+105
+00:04:08,159 --> 00:04:12,720
+type of cave that will make your mining
+
+106
+00:04:10,159 --> 00:04:15,280
+trip even more enjoyable with more
+
+107
+00:04:12,720 --> 00:04:17,759
+diamonds, and I'll get to that soon. The
+
+108
+00:04:15,280 --> 00:04:20,880
+challenge with caves is visibility.
+
+109
+00:04:17,759 --> 00:04:22,880
+These systems are huge and dark. Even
+
+110
+00:04:20,880 --> 00:04:24,960
+with plenty of torches lighting the
+
+111
+00:04:22,880 --> 00:04:27,600
+floor, the walls and ceiling can be
+
+112
+00:04:24,960 --> 00:04:29,840
+difficult to scan properly. Here's my
+
+113
+00:04:27,600 --> 00:04:32,240
+recommendation. Bring night vision
+
+114
+00:04:29,840 --> 00:04:34,720
+potions. A night vision potion
+
+115
+00:04:32,240 --> 00:04:37,040
+completely eliminates the darkness and
+
+116
+00:04:34,720 --> 00:04:39,199
+lets you see every exposed block in the
+
+117
+00:04:37,040 --> 00:04:40,960
+cave clearly. The brewing cost is
+
+118
+00:04:39,199 --> 00:04:43,120
+minimal compared to the time you'll
+
+119
+00:04:40,960 --> 00:04:45,440
+save. Or if you want to go one step
+
+120
+00:04:43,120 --> 00:04:47,280
+further, download this resource pack
+
+121
+00:04:45,440 --> 00:04:48,080
+which I mentioned in one of my latest
+
+122
+00:04:47,280 --> 00:04:50,960
+videos [music]
+
+123
+00:04:48,080 --> 00:04:53,360
+called glowing oes which will completely
+
+124
+00:04:50,960 --> 00:04:55,840
+elevate your mining experience as it
+
+125
+00:04:53,360 --> 00:04:57,600
+makes all oes visible. Link to this
+
+126
+00:04:55,840 --> 00:04:59,360
+video and the resource pack will be in
+
+127
+00:04:57,600 --> 00:05:02,000
+the description [music] below. You can
+
+128
+00:04:59,360 --> 00:05:04,320
+thank me later. Target the deepest caves
+
+129
+00:05:02,000 --> 00:05:06,880
+you can find. Once you hit deep slate
+
+130
+00:05:04,320 --> 00:05:08,720
+level, you're in the optimal zone. Look
+
+131
+00:05:06,880 --> 00:05:11,280
+for caves that descend to while level
+
+132
+00:05:08,720 --> 00:05:12,479
+minus 50 or lower. These are the ones
+
+133
+00:05:11,280 --> 00:05:15,759
+where you'll find the highest
+
+134
+00:05:12,479 --> 00:05:18,400
+concentration of diamonds. The downside,
+
+135
+00:05:15,759 --> 00:05:20,560
+mobs, lots of them. It's like trying to
+
+136
+00:05:18,400 --> 00:05:22,800
+shop during Black Friday, except
+
+137
+00:05:20,560 --> 00:05:24,960
+everything is actively hostile and the
+
+138
+00:05:22,800 --> 00:05:27,360
+deals are slightly better. Here's a
+
+139
+00:05:24,960 --> 00:05:29,840
+method that most players overlook.
+
+140
+00:05:27,360 --> 00:05:32,160
+underwater cave mining, or as I like to
+
+141
+00:05:29,840 --> 00:05:34,000
+call it, aquatic mining. There's a
+
+142
+00:05:32,160 --> 00:05:35,919
+hidden mechanic in Minecraft that most
+
+143
+00:05:34,000 --> 00:05:38,800
+people don't know. Diamonds are less
+
+144
+00:05:35,919 --> 00:05:40,880
+likely to generate when exposed to air.
+
+145
+00:05:38,800 --> 00:05:43,360
+This is why even in massive caves,
+
+146
+00:05:40,880 --> 00:05:46,560
+exposed diamond ore can still feel kind
+
+147
+00:05:43,360 --> 00:05:48,800
+of rare, but underwater, there's no air.
+
+148
+00:05:46,560 --> 00:05:51,520
+Water blocks fill the space, which means
+
+149
+00:05:48,800 --> 00:05:53,440
+diamond generation isn't reduced by air
+
+150
+00:05:51,520 --> 00:05:55,280
+exposure. And this is the method I
+
+151
+00:05:53,440 --> 00:05:57,360
+mentioned earlier, the one that's four
+
+152
+00:05:55,280 --> 00:05:59,199
+times faster than strip mining. Because
+
+153
+00:05:57,360 --> 00:06:02,320
+of this hidden mechanic, underwater
+
+154
+00:05:59,199 --> 00:06:05,440
+caves expose way more diamond ore and
+
+155
+00:06:02,320 --> 00:06:07,840
+almost zero mob danger. You can mine at
+
+156
+00:06:05,440 --> 00:06:10,160
+maximum efficiency. To mine underwater
+
+157
+00:06:07,840 --> 00:06:12,400
+caves effectively, though, you do need
+
+158
+00:06:10,160 --> 00:06:14,639
+to have some preparation. First, night
+
+159
+00:06:12,400 --> 00:06:17,440
+vision potions are even more important
+
+160
+00:06:14,639 --> 00:06:20,800
+here because water reduces visibility
+
+161
+00:06:17,440 --> 00:06:22,880
+significantly. Second, bring doors. You
+
+162
+00:06:20,800 --> 00:06:24,720
+can place a door underwater to create an
+
+163
+00:06:22,880 --> 00:06:26,960
+air pocket, giving you a place to
+
+164
+00:06:24,720 --> 00:06:30,160
+breathe without needing water breathing
+
+165
+00:06:26,960 --> 00:06:32,000
+potions. Yes, doors. The same item you
+
+166
+00:06:30,160 --> 00:06:33,840
+use to keep zombies out of your house
+
+167
+00:06:32,000 --> 00:06:36,160
+now helps you breathe underwater.
+
+168
+00:06:33,840 --> 00:06:38,000
+Minecraft Logic at its finest. On
+
+169
+00:06:36,160 --> 00:06:40,479
+Bedrock Edition, you can also use this
+
+170
+00:06:38,000 --> 00:06:42,639
+trick with trap doors or even create air
+
+171
+00:06:40,479 --> 00:06:44,720
+pockets with magma blocks. And if you
+
+172
+00:06:42,639 --> 00:06:47,120
+can afford it, water breathing potions
+
+173
+00:06:44,720 --> 00:06:49,280
+are also an option, of course. For this
+
+174
+00:06:47,120 --> 00:06:51,520
+as well, enchantments matter. Aqua
+
+175
+00:06:49,280 --> 00:06:54,000
+affinity on your helmet lets you mine at
+
+176
+00:06:51,520 --> 00:06:55,919
+normal speed underwater. Depth strider
+
+177
+00:06:54,000 --> 00:06:57,759
+on your boots make you move faster
+
+178
+00:06:55,919 --> 00:06:59,840
+underwater. These aren't strictly
+
+179
+00:06:57,759 --> 00:07:01,520
+necessary, but they do make the process
+
+180
+00:06:59,840 --> 00:07:05,039
+much smoother. The best part about
+
+181
+00:07:01,520 --> 00:07:07,039
+underwater mining, almost no mobs. You
+
+182
+00:07:05,039 --> 00:07:09,520
+might find an occasional drown, but
+
+183
+00:07:07,039 --> 00:07:11,759
+they're slow and easy to avoid, and
+
+184
+00:07:09,520 --> 00:07:13,599
+there's no creepers sneaking up on you.
+
+185
+00:07:11,759 --> 00:07:15,520
+It's the closest thing to peaceful mode
+
+186
+00:07:13,599 --> 00:07:17,759
+without actually admitting defeat and
+
+187
+00:07:15,520 --> 00:07:19,759
+switching to peaceful mode. is genuinely
+
+188
+00:07:17,759 --> 00:07:22,240
+one of the safest and most effective
+
+189
+00:07:19,759 --> 00:07:24,560
+diamond mine methods in the game, but
+
+190
+00:07:22,240 --> 00:07:26,639
+there is even faster ways if you're in
+
+191
+00:07:24,560 --> 00:07:29,360
+late game. Underwater caves are
+
+192
+00:07:26,639 --> 00:07:31,120
+incredible for early to mid game, but if
+
+193
+00:07:29,360 --> 00:07:33,280
+you're late game, there's a method that
+
+194
+00:07:31,120 --> 00:07:35,280
+completely bypasses mining diamonds
+
+195
+00:07:33,280 --> 00:07:37,199
+altogether. I'll show you that in a
+
+196
+00:07:35,280 --> 00:07:39,680
+minute. For now though, let's talk about
+
+197
+00:07:37,199 --> 00:07:42,560
+structures. Several places have diamonds
+
+198
+00:07:39,680 --> 00:07:45,599
+in chests. Mine shafts have about 8 to
+
+199
+00:07:42,560 --> 00:07:48,960
+9% chance per chest. Buried treasure has
+
+200
+00:07:45,599 --> 00:07:52,080
+50 to 60% chance and end cities have
+
+201
+00:07:48,960 --> 00:07:54,560
+high chances plus enchanted gear. If
+
+202
+00:07:52,080 --> 00:07:56,879
+you're late game, end cities are worth
+
+203
+00:07:54,560 --> 00:08:00,400
+farming. But here's the thing, all of
+
+204
+00:07:56,879 --> 00:08:02,240
+these are RNG dependent and inconsistent
+
+205
+00:08:00,400 --> 00:08:04,560
+compared to the method I'm about to show
+
+206
+00:08:02,240 --> 00:08:06,639
+you. All of these are definitely easier
+
+207
+00:08:04,560 --> 00:08:08,639
+later on in the game, but still take a
+
+208
+00:08:06,639 --> 00:08:10,800
+lot of time exploring and finding the
+
+209
+00:08:08,639 --> 00:08:12,800
+structures and chests. But here's
+
+210
+00:08:10,800 --> 00:08:15,039
+something that might surprise you.
+
+211
+00:08:12,800 --> 00:08:17,360
+Villages might actually be the most
+
+212
+00:08:15,039 --> 00:08:19,440
+efficient diamond source in the game,
+
+213
+00:08:17,360 --> 00:08:22,240
+depending on your setup. Who knew that
+
+214
+00:08:19,440 --> 00:08:25,280
+the best mining strategy was not mining
+
+215
+00:08:22,240 --> 00:08:29,039
+at all? Revolutionary. Three villager
+
+216
+00:08:25,280 --> 00:08:31,120
+types matter: armorers, toolsmiths, and
+
+217
+00:08:29,039 --> 00:08:33,279
+weaponsmiths. If you trade with these
+
+218
+00:08:31,120 --> 00:08:35,599
+villagers and level them up to master
+
+219
+00:08:33,279 --> 00:08:38,080
+level, they'll offer you incredible
+
+220
+00:08:35,599 --> 00:08:40,080
+trades. An armorer will trade you a
+
+221
+00:08:38,080 --> 00:08:42,399
+complete set of enchanted diamond armor
+
+222
+00:08:40,080 --> 00:08:45,040
+for emeralds. Tool smiths offer
+
+223
+00:08:42,399 --> 00:08:47,600
+enchanted diamond tools. Weapon smiths
+
+224
+00:08:45,040 --> 00:08:49,600
+offer enchanted diamond weapons. The
+
+225
+00:08:47,600 --> 00:08:51,600
+question becomes, where do you get all
+
+226
+00:08:49,600 --> 00:08:53,600
+the emeralds? This is something I go
+
+227
+00:08:51,600 --> 00:08:54,959
+through in depth in this video. So,
+
+228
+00:08:53,600 --> 00:08:56,880
+check it out to find out the most
+
+229
+00:08:54,959 --> 00:08:58,480
+efficient ways of getting emeralds for
+
+230
+00:08:56,880 --> 00:09:00,160
+the much needed diamonds you're looking
+
+231
+00:08:58,480 --> 00:09:02,320
+for. Also, while you're checking that
+
+232
+00:09:00,160 --> 00:09:04,959
+video out, please like and subscribe as
+
+233
+00:09:02,320 --> 00:09:06,560
+I'm aiming for 100,000 subscribers by
+
+234
+00:09:04,959 --> 00:09:08,560
+the end of the [music] year. The beauty
+
+235
+00:09:06,560 --> 00:09:10,560
+of this method is that you're getting
+
+236
+00:09:08,560 --> 00:09:13,200
+enchanted diamond gear, which is
+
+237
+00:09:10,560 --> 00:09:14,880
+arguably better than raw diamonds.
+
+238
+00:09:13,200 --> 00:09:16,756
+You're skipping the entire process of
+
+239
+00:09:14,880 --> 00:09:19,279
+mining diamonds, crafting the tools,
+
+240
+00:09:16,756 --> 00:09:21,680
+[music] and enchanting them separately.
+
+241
+00:09:19,279 --> 00:09:23,519
+Everything comes pre-enchanted. It's
+
+242
+00:09:21,680 --> 00:09:25,279
+like ordering takeout instead of
+
+243
+00:09:23,519 --> 00:09:27,920
+cooking. Sure, you could spend hours in
+
+244
+00:09:25,279 --> 00:09:30,160
+the kitchen, or you could just not. Now,
+
+245
+00:09:27,920 --> 00:09:32,800
+you might ask, what about situations
+
+246
+00:09:30,160 --> 00:09:34,640
+where you need actual diamonds, not just
+
+247
+00:09:32,800 --> 00:09:36,399
+diamond gear? Like for crafting
+
+248
+00:09:34,640 --> 00:09:38,880
+Netherite upgrade templates or
+
+249
+00:09:36,399 --> 00:09:41,360
+enchanting tables. For Neite templates,
+
+250
+00:09:38,880 --> 00:09:43,839
+you only need about 40 to 60 diamonds
+
+251
+00:09:41,360 --> 00:09:46,000
+total to duplicate enough templates for
+
+252
+00:09:43,839 --> 00:09:48,080
+a full set of gear. That's achievable
+
+253
+00:09:46,000 --> 00:09:50,080
+through any of the mining methods we've
+
+254
+00:09:48,080 --> 00:09:51,760
+covered. And for enchanting, you don't
+
+255
+00:09:50,080 --> 00:09:54,560
+actually need an enchantment table.
+
+256
+00:09:51,760 --> 00:09:56,000
+Librarian villages sell enchanted books,
+
+257
+00:09:54,560 --> 00:09:58,000
+so you [music] can get any enchantment
+
+258
+00:09:56,000 --> 00:10:00,160
+you want through trading and apply that
+
+259
+00:09:58,000 --> 00:10:03,279
+to an anvil. So, which method should you
+
+260
+00:10:00,160 --> 00:10:05,881
+actually use? Simple. Brand new world.
+
+261
+00:10:03,279 --> 00:10:07,600
+Strip mine at Y minus 58 until you
+
+262
+00:10:05,881 --> 00:10:10,240
+[music] get your first diamonds. Got
+
+263
+00:10:07,600 --> 00:10:12,880
+some gear? Hit the caves. Want zero
+
+264
+00:10:10,240 --> 00:10:15,360
+danger? Underwater caves. Late game with
+
+265
+00:10:12,880 --> 00:10:17,360
+villagers? Stop mining. Just trade for
+
+266
+00:10:15,360 --> 00:10:19,920
+enchanted diamond gear. And no matter
+
+267
+00:10:17,360 --> 00:10:22,480
+which method you use, always use fortune
+
+268
+00:10:19,920 --> 00:10:24,560
+three. It can quadruple your diamond
+
+269
+00:10:22,480 --> 00:10:26,399
+drops. That's everything you need. Pick
+
+270
+00:10:24,560 --> 00:10:29,120
+your method, get your diamonds, and I'll
+
+271
+00:10:26,399 --> 00:10:29,120
+see you in the next

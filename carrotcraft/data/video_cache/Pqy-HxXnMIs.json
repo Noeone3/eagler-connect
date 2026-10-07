@@ -1,0 +1,37 @@
+{
+  "status": "studied",
+  "video_id": "Pqy-HxXnMIs",
+  "url": "https://www.youtube.com/watch?v=Pqy-HxXnMIs",
+  "title": "How to Find Diamonds Fast in Minecraft 26.1+ | Beginner Guide",
+  "channel": "Valqrin",
+  "length_seconds": 144,
+  "captions_available": true,
+  "caption_language": "a.en",
+  "transcript": "If you're still mining at Y\n[music]\nall the way down to Y minus 64, but\nthey're most common near the bottom of\nthe world. Before you head underground,\nmake [music] sure you have an iron\npickaxe or better, plenty of food, a\nstack of torches [music] if you're\nplaying without full brightness, a water\nbucket to deal with lava, at least one\nextra pickaxe. [music] Trust me, you\ndon't want your pickaxe breaking halfway\nthrough a mining trip. Once you reach\n[music] Y minus 59, dig a straight\ntunnel, then every two blocks create\nside tunnels. This exposes the maximum\nnumber of blocks while wasting the\n[music] least amount of time. If you\ncome across a large cave, explore it,\ntoo. Many experienced players [music]\nfind deep caves can be even faster than\nbranch mining because more blocks are\nexposed at once.\nHere are three mistakes [music]\nbeginners make. Number one, mining at\nThat worked years ago, but the world\ngeneration changed after the Caves and\nCliffs update. [music] Number two,\ndigging straight down. It's risky and\ncan drop you into lava.\nNumber three, mining diamond ore without\nFortune III once you have it. Fortune\nIII can multiply the number of diamonds\nyou get from each ore block.\nAs you could clearly see, I got two more\ndiamonds just because I used a Fortune\nIII pickaxe. It may not sound like much,\nbut on larger veins, the number of\ndiamonds you get is massive. It is not\nthe end yet. Here is a bonus tip just\nfor you. Whenever you hear lava, don't\npanic. Place your water bucket before\nmoving forward. [music] It'll turn the\nlava into obsidian and keep both you and\nyour diamonds safe.\nAnd that's the fastest way to find\ndiamonds in Minecraft 1.21. [music]\nIf this guide helped you, consider\nsubscribing because I'll be making more\nquick Minecraft tutorials with no\n[music] filler. Thanks for watching and\ngood luck finding those diamonds.",
+  "techniques": [
+    "branch_mining",
+    "cave_mining",
+    "water_lava",
+    "exploration"
+  ],
+  "evidence": {
+    "branch_mining": [
+      "branch mining",
+      "two block"
+    ],
+    "cave_mining": [
+      "cave",
+      "caves"
+    ],
+    "water_lava": [
+      "water bucket",
+      "lava"
+    ],
+    "exploration": [
+      "explore"
+    ]
+  },
+  "y_levels": [],
+  "summary": "Transcript evidence suggests: branch/strip mining, cave mining, water/lava handling, exploration.",
+  "studied_at": 1789764554.1444466
+}

@@ -1,0 +1,1482 @@
+{
+  "goals": {
+    "get diamonds": [
+      "obtain wood",
+      "craft crafting table",
+      "obtain stone",
+      "craft stone pickaxe",
+      "obtain iron",
+      "craft iron pickaxe",
+      "find diamond ore",
+      "mine diamonds"
+    ],
+    "get full netherite": [
+      "Get wood",
+      "Craft wooden planks",
+      "Craft a crafting table",
+      "Craft sticks",
+      "Craft a wooden pickaxe",
+      "Mine stone",
+      "Craft a stone pickaxe",
+      "Mine iron",
+      "Craft an iron pickaxe",
+      "Mine diamonds",
+      "Craft diamond armor and diamond tools",
+      "Craft a diamond pickaxe",
+      "Obtain obsidian",
+      "Build and enter a Nether portal",
+      "Mine ancient debris",
+      "Mine gold",
+      "Craft netherite ingots",
+      "Find a Nether bastion",
+      "Obtain a Netherite Upgrade Smithing Template",
+      "Craft a smithing table",
+      "Upgrade diamond armor and tools to netherite"
+    ]
+  },
+  "videos": [
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "4eBJzMa62yw",
+      "title": "The ACTUAL BEST Ways to Find Diamonds in Minecraft 26.2+ | Java &amp; Bedrock",
+      "description": "these are the actual best ways to find diamonds in minecraft 1.21+ / best tutorial on how to find diamonds in minecraft 1.21.7.",
+      "channel": "TheAetherGamer",
+      "published_at": "2025-07-01T16:18:30Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "eT5_IYihoDI",
+      "title": "Easiest way to find a diamonds #minecraft don’t check the sound",
+      "description": "",
+      "channel": "Riss",
+      "published_at": "2025-06-21T21:27:08Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "xhhZ-RC4Wro",
+      "title": "the REAL best way to find diamonds...",
+      "description": "follow my twitter so i can set-up more collabs @camman18_: https://twitter.com/camman18_ also i stream on twitch every week ...",
+      "channel": "camman18",
+      "published_at": "2022-08-08T15:00:40Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "0jpGft4Sx_8",
+      "title": "7 Ways To Find A LOT OF DIAMONDS In Minecraft In 2026 (Java &amp; Bedrock)",
+      "description": "Join this channel to get access to perks: https://www.youtube.com/channel/UCk_OLZfiwEPuq3aSi08WyxQ/join Video Overview: ...",
+      "channel": "The Mine Mentor",
+      "published_at": "2024-08-03T06:26:22Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "rkPXt_dKp-w",
+      "title": "BEST MINING METHOD Minecraft 1.21! (Java &amp; Bedrock)",
+      "description": "300+ DIAMONDS / HOUR! This mining method is INSANE!! This design will work on JAVA EDITION Minecraft! ❤️SUB FOR ...",
+      "channel": "BlazedMC - Java",
+      "published_at": "2024-12-20T13:01:10Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "DldW3ug7tAQ",
+      "title": "NEW Best Way To Find Diamonds in Minecraft 1.21 (JAVA + BEDROCK)",
+      "description": "Best way to find diamonds in Minecraft 1.21 Easy Diamond finding methods in Minecraft 1.21! Ultimate minecraft 1.21 diamond ...",
+      "channel": "ReytGood",
+      "published_at": "2026-02-19T19:40:57Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "HjKKN1qidEc",
+      "title": "The BEST Way To Find Diamonds In Minecraft! Bedrock &amp; Java Tutorial!",
+      "description": "This is the BEST way to find diamonds in Minecraft! Easy diamond mining tutorial for Minecraft Bedrock & Minecraft Java!",
+      "channel": "silentwisperer",
+      "published_at": "2023-10-01T20:08:14Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "pYICncJM2ZM",
+      "title": "BEST WAY TO FIND DIAMONDS In Minecraft 1.21/26.2+ Bedrock And Java!",
+      "description": "BEST WAY TO FIND DIAMONDS!! (200/HOUR) In Minecraft 1.21/26.2+ Bedrock And Java This new method is almost twice as fast ...",
+      "channel": "Mod Stop",
+      "published_at": "2026-05-23T14:00:26Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "FMDZHW_vR1g",
+      "title": "BEST WAY TO FIND DIAMONDS In Minecraft 1.21 Bedrock And Java!  #minecraft",
+      "description": "BEST WAY TO FIND DIAMONDS!! (200/HOUR) In Minecraft 1.21 Bedrock And Java This new method is almost twice as fast as the ...",
+      "channel": "Mod Stop",
+      "published_at": "2024-06-26T14:00:11Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "TGyOqZAsKeo",
+      "title": "FASTEST WAYS TO FIND DIAMONDS IN MINECRAFT",
+      "description": "FASTEST WAYS TO FIND DIAMONDS IN MINECRAFT ▻Subscribe Here: http://goo.gl/0JbOQk ▻Leave a LIKE if you Enjoyed!",
+      "channel": "SB737",
+      "published_at": "2020-04-14T16:32:58Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "objdyxI7wYw",
+      "title": "In 3 Minutes, You&#39;ll Master Finding DIAMONDS in Minecraft",
+      "description": "This video is the only minecraft diamond guide you'll ever need, enchant your pickaxes with the best enchantments and watch this ...",
+      "channel": "TheBalgam",
+      "published_at": "2026-07-14T19:14:10Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "X7l03SuXwnM",
+      "title": "How to Find Diamonds in Minecraft 1.21 (BEST WAY) | Minecraft 1.21 Diamond Mining Guide",
+      "description": "how to find diamonds in minecraft 1.21. The ultimate minecraft diamond mining guide 1.21. here we go! the ultimate minecraft 1.21 ...",
+      "channel": "TheAetherGamer",
+      "published_at": "2024-06-08T17:07:06Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "3-rbUxNG89I",
+      "title": "Best way to find diamonds #minecraft",
+      "description": "",
+      "channel": "Riss",
+      "published_at": "2025-08-25T14:16:12Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "Nt-3C1UD13Q",
+      "title": "the EASIEST way to get diamonds.",
+      "description": "FOLLOW ME EVERYWHERE ↓ ↓ ↓ Twitter- https://twitter.com/camman18_ (for collabs) Twitch- https://twitch.tv/camman18 ...",
+      "channel": "camman18",
+      "published_at": "2023-11-01T15:00:21Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "KkAe-390IzE",
+      "title": "BEST Way to Find Diamonds in Minecraft!",
+      "description": "Just a quick video on how to find diamonds in minecraft! #minecraft #minecraftshorts #minecrafttips.",
+      "channel": "Alex2x",
+      "published_at": "2025-08-30T18:28:01Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "I1Qc2vH55P0",
+      "title": "BEST WAY TO FIND DIAMONDS",
+      "description": "minecraftshorts #minecraftshorts #minecraftshorts #minecraftvideos #minecraftvideos #shortvideo #shortsvideo #ytshorts ...",
+      "channel": "Minecraft",
+      "published_at": "2024-09-07T13:00:17Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "cj2wDiuOdls",
+      "title": "The Old Trick To Finding Minecraft Diamonds",
+      "description": "",
+      "channel": "RetroGamingNow",
+      "published_at": "2025-10-06T17:40:26Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "A-dLQOBPLRk",
+      "title": "Where To Find Diamonds In Minecraft",
+      "description": "Learn where to find diamonds in Minecraft, the best Y level for you to mine to maximize your diamond output. This is similar to my ...",
+      "channel": "VIPmanYT",
+      "published_at": "2022-10-07T21:07:13Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "Pqy-HxXnMIs",
+      "title": "How to Find Diamonds Fast in Minecraft 26.1+ | Beginner Guide",
+      "description": "Learn the fastest way to find diamonds in Minecraft 26.1+! In this beginner-friendly tutorial, I'll show you the best Y level for ...",
+      "channel": "Valqrin",
+      "published_at": "2026-07-13T15:11:21Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft fastest way to find diamonds",
+      "video_id": "2L9zc6dMKkw",
+      "title": "How to find Diamonds in The Big 25",
+      "description": "Thank you all for watching. Please subscribe! ----- (ignore, for views hehe) ----- #Minecraft #MinecraftShorts ...",
+      "channel": "nowayitsali",
+      "published_at": "2025-08-08T14:35:01Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft diamond mining method 2026",
+      "video_id": "dXf6bHFX8n4",
+      "title": "BEST Diamond Mining Method in Minecraft BEDROCK 1.21/26.1+",
+      "description": "Trying to find diamonds fast in Minecraft Bedrock Edition? In this updated Minecraft Bedrock diamond mining guide for 1.21/26.1+, ...",
+      "channel": "ReytGood2",
+      "published_at": "2026-05-15T12:15:05Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft diamond mining method 2026",
+      "video_id": "4WCktvQd_i8",
+      "title": "Diamond Mining Has Changed — Here&#39;s the BEST Method! 1.21+",
+      "description": "Join this channel to get access to the Community Server hosted by NodeCraft: ...",
+      "channel": "The Aeon Arc",
+      "published_at": "2026-02-22T09:37:17Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft diamond mining method 2026",
+      "video_id": "0Ngs7svm7Uw",
+      "title": "MINECRAFT JUST ADDED A NEW WAY TO GET DIAMONDS + CHANGED CAVING FOREVER...",
+      "description": "Mining for Diamonds in Minecraft will never be the same again... Minecraft Mounts of Mayhem has added a brand new better way ...",
+      "channel": "wattles",
+      "published_at": "2025-12-27T16:56:46Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft diamond mining method 2026",
+      "video_id": "vUWgJ4XYR8I",
+      "title": "the ACTUAL Best Diamond Mining Method",
+      "description": "me want diamonds yes yes Minecraft #shorts.",
+      "channel": "Bent",
+      "published_at": "2024-12-05T05:56:53Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft diamond mining method 2026",
+      "video_id": "4j--etBK8tE",
+      "title": "2 Ways To Get FULL DIAMOND GEAR In Less Than 1 Hour In Minecraft In 2026",
+      "description": "Join this channel to get access to perks: https://www.youtube.com/channel/UCk_OLZfiwEPuq3aSi08WyxQ/join Video Overview: ...",
+      "channel": "The Mine Mentor",
+      "published_at": "2024-10-14T10:05:29Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft diamond mining method 2026",
+      "video_id": "2YDtpEetKVg",
+      "title": "Minecraft Diamond Trick",
+      "description": "Did you know that in Minecraft Java Edition you can find diamonds very easily? Once you find lapis, all you have to do is go four ...",
+      "channel": "CheezyChez",
+      "published_at": "2021-10-04T04:00:02Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft diamond mining method 2026",
+      "video_id": "f6JiP2P-yrg",
+      "title": "How To Find Diamonds FAST in Minecraft 🔥 (Latest Version Guide)",
+      "description": "How To Find Diamonds FAST in Minecraft (Latest Version Guide) Minecraft Tutorial Playlist ...",
+      "channel": "SUJIT GAMER YT",
+      "published_at": "2026-06-17T10:30:24Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft diamond mining method 2026",
+      "video_id": "ZWUc7S5SaWE",
+      "title": "NEW TOP DIAMOND FINDING TIPS For Minecraft Bedrock",
+      "description": "TOP DIAMOND FINDING TIPS YOU NEED TO KNOW! If you like the best Minecraft Bedrock Tutorials for Farms and Game ...",
+      "channel": "MC Bedrock Tutorials",
+      "published_at": "2026-05-29T12:00:07Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft diamond mining method 2026",
+      "video_id": "NF5KDxDAy2A",
+      "title": "HOW TO GET INFINITE DIAMONDS FAST In Minecraft Bedrock Edition 1.21",
+      "description": "In this short we show you guys a GLITCH that can give you INFINITE DIAMONDS SUPER FAST. This method may not work in the ...",
+      "channel": "Supman",
+      "published_at": "2025-05-28T04:00:33Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft branch mining diamonds",
+      "video_id": "5YDpXiZuDnY",
+      "title": "How To Find Diamonds In Minecraft 2026",
+      "description": "Learn how to find diamonds in Minecraft 2026. This is a quick and easy method to find diamonds in Minecraft survival mode for all ...",
+      "channel": "VIPmanYT",
+      "published_at": "2026-01-01T00:00:06Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft branch mining diamonds",
+      "video_id": "jr_W3aYy96Q",
+      "title": "I Mined for 100,000 Blocks in a Straight Line in Minecraft Hardcore!",
+      "description": "Today I am mining 100000 blocks in a straight line in hardcore minecraft! This is going to take me over 20 hours to do! Will I get ...",
+      "channel": "LockDownLife",
+      "published_at": "2022-03-19T12:45:03Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft branch mining diamonds",
+      "video_id": "LrYNvTGxtU8",
+      "title": "The Best DIAMOND BRANCH MINING METHODS For Minecraft 1.21",
+      "description": "Diamond Mining! minecraft guide 60 is all about how to find diamonds branch mining and the best y level for branch mining. this ...",
+      "channel": "wattles",
+      "published_at": "2024-01-23T18:57:48Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft branch mining diamonds",
+      "video_id": "81_BR7Xf2Ic",
+      "title": "I Broke The World Record For Most Diamonds In Minecraft",
+      "description": "Download Honkai Impact: https://bit.ly/3Le6t6R Use gift code [60AHDASFBLAFL ] and get 30 Crystals, 2888 Asterites and a ...",
+      "channel": "Carvs",
+      "published_at": "2022-09-22T15:00:03Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft branch mining diamonds",
+      "video_id": "b4SNsfsTI9c",
+      "title": "The Ultimate Minecraft 1.21 Diamond Mining Guide | How to Strip Mine, Cave, Diamond Fossils &amp; More!",
+      "description": "The Ultimate Minecraft 1.21 Diamond Mining Guide Twitter: https://twitter.com/eyecraft_mc Discord: ...",
+      "channel": "Eyecraftmc",
+      "published_at": "2022-02-12T15:00:30Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft cave mining diamonds",
+      "video_id": "5SAEwXy9-_g",
+      "title": "15 Tips To Cave Like a Pro in No Time!",
+      "description": "In this video, i am going to help you learn all of the best tips tricks, and hacks to becoming a better caver in Minecraft 1.20!",
+      "channel": "Star_M",
+      "published_at": "2023-09-10T13:00:02Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft cave mining diamonds",
+      "video_id": "Cu1AHd_dRh8",
+      "title": "How to Mine in Minecraft!",
+      "description": "How to Mine in Minecraft! are you mining correctly! let me know the best way to possible mine! Songs : All songs supplied by ...",
+      "channel": "RipMonts",
+      "published_at": "2022-11-23T16:15:00Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft cave mining diamonds",
+      "video_id": "9S7g4J93cQM",
+      "title": "Playing Minecraft in the cave looking for diamonds (LINK IN DESCRIPTION)",
+      "description": "Original:https://www.youtube.com/watch?v=OTjtQqf61Ts Want to chat or anything add me on discord: Second account: neonkittii ...",
+      "channel": "Professor Vomi (FAZBOIS PRODUCTIONS)",
+      "published_at": "2021-11-08T19:20:45Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft cave mining diamonds",
+      "video_id": "rLe-E0MD9c8",
+      "title": "Minecraft Longplay Mining - Relaxing Mining and Cave Exploration - Ore Mining - No Commentary - 1.20",
+      "description": "Like and Subscribe for more content :)",
+      "channel": "SpicyWingsPlz",
+      "published_at": "2024-02-05T16:00:28Z"
+    },
+    {
+      "status": "ok",
+      "query": "Minecraft cave mining diamonds",
+      "video_id": "OtZ2K-bHp7Q",
+      "title": "The Craziest Cave I’ve Ever Seen… (Solo Hardcore Checklist Challenge)",
+      "description": "Join this channel to get access to uploads with no blurs or mutes: ...",
+      "channel": "CaseOh",
+      "published_at": "2024-12-15T23:00:14Z"
+    },
+    {
+      "status": "ok",
+      "video_id": "m88SzauNsTA",
+      "title": "The EASIEST Way to Find Diamonds in Minecraft Bedrock",
+      "description": "We found diamonds insanely fast in this one — 46 diamonds in 5 minutes, one of the quickest runs we've had. This is a real ...",
+      "channel": "Minecraft How To",
+      "published_at": "2026-09-13T09:30:12Z"
+    },
+    {
+      "status": "ok",
+      "video_id": "LTDkUijoD1o",
+      "title": "New Best Way To Find Diamonds",
+      "description": "This video is about New Best Way To Find Diamonds. It Was Hilarious! Join The Discord - https://discord.gg/HjMhBD7xNj For ...",
+      "channel": "WOLF Online",
+      "published_at": "2022-11-07T13:00:24Z"
+    },
+    {
+      "status": "ok",
+      "video_id": "mSNMtyfoFlg",
+      "title": "The ONLY MINING GUIDE You Will Need! 1.21/26.1+! Minecraft",
+      "description": "EVERY ORE Location, the BEST Y-Level to mine ores, the BEST Mining Methods, Safety, Fastest way to clear out an area, and 11 ...",
+      "channel": "BlazedMC",
+      "published_at": "2025-05-02T11:01:20Z",
+      "url": "https://www.youtube.com/watch?v=mSNMtyfoFlg"
+    },
+    {
+      "status": "ok",
+      "video_id": "uGaKLMnSWoc",
+      "title": "NEW Ultimate Minecraft Mining Guide 26.2+ Copper Age | Best Way To Find Every Ore",
+      "description": "the ultimate minecraft 1.21 copper age mining guide! this video will show you the new best ways to mine diamonds in bedrock and ...",
+      "channel": "TheAetherGamer",
+      "published_at": "2025-10-25T17:42:21Z",
+      "url": "https://www.youtube.com/watch?v=uGaKLMnSWoc"
+    },
+    {
+      "status": "ok",
+      "video_id": "JrPnfd9SKPw",
+      "title": "The Best Ways To Find Diamonds In Minecraft 26.2!",
+      "description": "The Best Ways To Find Diamonds In Minecraft 26.2! Today we're gonna do something different! I'll show you the easiest way to ...",
+      "channel": "Voltrox",
+      "published_at": "2024-06-25T06:00:10Z",
+      "url": "https://www.youtube.com/watch?v=JrPnfd9SKPw"
+    },
+    {
+      "status": "ok",
+      "video_id": "7EcD8EBkqb4",
+      "title": "Easy TNT TUNNEL BORE - Mine DIAMONDS the FUN Way! | Minecraft Java 26.2+",
+      "description": "Get loads of DIAMONDS in Minecraft, in the most FUN way possible - Blasting through walls, with a TNT Tunnel Bore!",
+      "channel": "SpawnCamped",
+      "published_at": "2026-07-18T13:30:08Z",
+      "url": "https://www.youtube.com/watch?v=7EcD8EBkqb4"
+    },
+    {
+      "status": "ok",
+      "video_id": "ED3iuM594J8",
+      "title": "How To Find DIAMOND&#39;S In Minecraft PE &amp; java 1.21 &amp; 26.2+🤩 Minecraft Main diamond Kaise dhundhe",
+      "description": "How to find Diamonds in minecraft 1.22 | PE & JAVA | Minecraft 1.21 diamond mining How To Find DIAMOND'S In Minecraft PE ...",
+      "channel": "DEEP PRO GAMER",
+      "published_at": "2026-06-18T12:00:14Z",
+      "url": "https://www.youtube.com/watch?v=ED3iuM594J8"
+    }
+  ],
+  "video_studies": [
+    {
+      "status": "studied",
+      "video_id": "4eBJzMa62yw",
+      "title": "The ACTUAL BEST Ways to Find Diamonds in Minecraft 26.2+ | Java &amp; Bedrock",
+      "channel": "TheAetherGamer",
+      "known_techniques": [],
+      "y_levels": [],
+      "new_strategies": [
+        {
+          "name": "bed_mining",
+          "occurrences": 1,
+          "examples": [
+            "The ACTUAL BEST Ways to Find Diamonds in Minecraft 26.2+ | Java & Bedrock these are the actual best ways to find diamonds in minecraft 1.21+ / best tutorial on how to find diamonds in minecraft 1.21.7."
+          ],
+          "y_levels": [],
+          "confidence": 0.75
+        }
+      ],
+      "caption_length": 0,
+      "summary": "New strategies discovered: bed_mining."
+    },
+    {
+      "status": "studied",
+      "video_id": "rkPXt_dKp-w",
+      "title": "BEST MINING METHOD Minecraft 1.21! (Java &amp; Bedrock)",
+      "channel": "BlazedMC - Java",
+      "known_techniques": [],
+      "y_levels": [],
+      "new_strategies": [],
+      "caption_length": 0,
+      "summary": "No reliable mining strategies were extracted."
+    },
+    {
+      "status": "studied",
+      "video_id": "dXf6bHFX8n4",
+      "url": "https://www.youtube.com/watch?v=dXf6bHFX8n4",
+      "title": "BEST Diamond Mining Method in Minecraft BEDROCK 1.21/26.1+",
+      "channel": "ReytGood2",
+      "length_seconds": 600,
+      "captions_available": true,
+      "caption_language": "a.en",
+      "transcript": "Diamonds don't spawn like they used to.\nThe 1.18 update completely changed the\ngame. And if you don't know these\nmechanics, you're going to waste hours\n[music] in the wrong places. So, why\ndoesn't Y11 work anymore? Simple.\nDiamonds now spawn from Y16 down to\nY-64.\nAnd here's the key. [music] The deeper\nyou go, the more diamonds you find. At\nY16, they're basically nonexistent. At\nY-58 [music]\nto -64, they're everywhere. Now, you\nmight think, \"Okay, I'll just mine at\nY-64 then.\" Wrong.\n>> [music]\n>> Below Y60, bedrock starts replacing\ndiamond spawns. So, the actual sweet\nspot is [music] Y-58 or Y-59.\nAround there. Deep enough for maximum\ndiamonds, high enough to avoid bedrock.\n[music] Remember that number. One more\nthing before we jump into the methods,\ndiamond veins are now much larger.\nPre-1.18, [music] you'd find eight\ndiamonds max in a vein. Now, you can hit\n10, 12, even bigger clusters. This\nmatters because some methods expose way\nmore diamond veins than others. And\nthere's one method in particular, the\none I mentioned at the start, that\n[music] takes advantage of a hidden\nmechanic that most players don't even\nknow exist. But, we'll get to that.\nFirst, let's start with the [music]\nfoundation. The most straightforward\napproach is strip mining. Despite what\npeople say, strip mining is still\nviable. It just needs to be done\ncorrectly. First, get yourself down to Y\nlevel -58. The most efficient way is to\ndig a staircase down, placing torches as\nyou go to prevent mob spawns. Once\nyou're at the right level, you're going\nto create a main tunnel. I recommend\nmaking it three blocks wide and two\nblocks tall. This gives you room to move\nand see clearly. From this tunnel,\nyou'll branch out with smaller tunnels.\nThese should be one block wide and two\nblocks tall. Mine these branches\nperpendicular to your main tunnel, And\nand here's the key. Leave exactly two\nblocks between each branch tunnel. This\nensures you're exposing enough new\nblocks to find diamonds without wasting\neffort mining the same area twice.\nBecause, unlike my personal life, we\nactually want to be efficient with our\ntunnels. How far should each branch\nextend? About 30 to 40 blocks is\noptimal. If you haven't found anything\nby then, head back and start a new\nbranch. This systematic approach covers\na large area efficiently. And now, let's\ntalk about lighting because mob spawning\nmechanics changed in the last few years,\ntoo. Mobs now only spawn at light level\nzero, not light level seven like before.\nThis means you can place torches every\n12 blocks instead of every six, which\nsaves resources significantly on longer\nmining sessions. Your coal reserves will\nthank you, and so will your sanity after\nyou realize need to craft 400 torches\nfor a single mining trip anymore. Now,\nlet's talk about natural caves, which,\nafter the cave generation overhaul, are\nactually one of the best diamond sources\nin the [music] game. The new cave\nsystems are massive. They extend to the\ndeepest levels, they're full of\ninteresting terrain, and more\nimportantly, they expose an enormous\nnumber of blocks. When you're strip\nmining, you're only exposing the blocks\nyou're actively breaking. In a cave,\nthousands of blocks are already exposed\non the walls, ceiling, and floor.\nMinecraft did the mining work for you.\nIt's like showing up to an exam and\nfinding out it's open book, except the\nbook is trying to kill you with\nskeletons. And there is one specific\ntype of cave that will make your mining\ntrip even more enjoyable with more\ndiamonds, and I'll get to that soon. The\nchallenge with caves is visibility.\nThese systems are huge and dark. Even\nwith plenty of torches lighting the\nfloor, the walls and ceiling can be\n[music] difficult to scan properly.\nHere's my recommendation: bring night\nvision potions. A night vision potion\ncompletely eliminates the darkness and\nlets you see every exposed block in the\ncave clearly. The brewing cost is\nminimal compared to the time you'll\nsave. Or, if you want to go one step\nfurther, download this resource pack\nwhich I mentioned in one of my latest\nvideos called [music] Glowing Ores,\nwhich will completely elevate your\nmining experience as it makes all ores\nvisible. Link to this video and the\nresource pack will be in the description\n[music] below. You can thank me later.\nTarget the deepest caves you can find.\n[music] Once you hit deepslate level,\nyou're in the optimal zone. Look for\ncaves that descend to Y level minus 50\nor lower. These are the ones where\nyou'll find the highest concentration of\ndiamonds. The downside? Mobs. Lots of\nthem. It's like trying to shop during\nBlack Friday, except everything is\nactively hostile and the deals are\nslightly better. Here's a method that\nmost players overlook: underwater cave\nmining. Or as I like to call it, aquatic\nmining. There's a hidden mechanic in\nMinecraft that most people don't know.\nDiamonds are less likely to generate\nwhen exposed to air. This is why even in\nmassive caves, exposed diamond ore can\nstill feel kind of rare. But underwater,\nthere's no air. Water blocks fill the\nspace, which means diamond generation\nisn't reduced by air exposure. And this\nis the method I mentioned earlier, the\none that's four times faster than strip\nmining. Because of this hidden mechanic,\nunderwater caves expose way more diamond\nore and almost zero mob danger. You can\nmine at maximum efficiency. To mine\nunderwater caves effectively though, you\ndo need to have some preparation. First,\nnight vision potions are even more\nimportant here because water reduces\nvisibility significantly. Second, bring\ndoors. You can place a door underwater\nto create an air pocket, giving you a\nplace to breathe without needing water\nbreathing potions. Yes, doors. The same\nitem you used to keep zombies out of\nyour house now helps you breathe\nunderwater. Minecraft logic at its\nfinest. On Bedrock Edition, you can also\nuse this trick with trapdoors or even\ncreate air pockets with magma blocks.\nAnd if you can afford it, water\nbreathing potions are also an option, of\ncourse. For this as well, enchantments\nmatter. Aqua Affinity on your helmet\nlets you mine at normal speed\nunderwater. Depth Strider on your boots\nmake you move faster underwater. These\naren't strictly necessary, but they do\nmake the process much smoother. The best\npart about underwater mining, almost no\nmobs. You might find an occasional\ndrowned, but they're slow and easy to\navoid. And there's no creepers sneaking\nup on you. It's the closest thing to\npeaceful mode without actually admitting\ndefeat and switching to peaceful mode.\nIt's genuinely one of the safest and\nmost effective diamond mine methods in\nthe game. But there is even faster ways\nif you're in late game. Underwater caves\nare incredible for early to mid game,\nbut if you're late game, there's a\nmethod that completely bypasses mining\ndiamonds altogether. I'll show you that\nin a minute. For now though, let's talk\nabout structures. Several places have\ndiamonds in chests. Mine shafts have\nabout 8 to 9% chance per chest. Buried\ntreasure has 50 to 60% chance. And end\ncities have high chances plus enchanted\ngear. If you're late game, end cities\nare worth farming. But here's the thing,\nall of these are RNG dependent and\ninconsistent compared to the method I'm\nabout to show you. All of these are\ndefinitely easier later on in the game,\nbut still take a lot of time exploring\nand I'm the structures and chests. But,\nhere's something that might surprise\nyou. Villagers might actually be the\nmost efficient diamond source in the\ngame, depending on your setup. Who knew\nthat the best mining strategy was not\nmining at all? Revolutionary. Three\nvillager types matter: armorers, tool\nsmiths, and weapon smiths. If you trade\nwith these villagers and level them up\nto master level, they'll offer you\nincredible trades. An armorer will trade\nyou a complete set of enchanted diamond\narmor for emeralds. Tool smiths offer\nenchanted diamond tools. Weapon smiths\noffer enchanted diamond weapons. The\nquestion becomes where do you get all\nthe emeralds? This is something I go\nthrough in depth in this video, so\n[music] check it out to find out the\nmost efficient ways of getting emeralds\nfor the much-needed diamonds you're\nlooking for. Also, while you're checking\nthat video out, please like and\nsubscribe as I'm aiming for 100,000\nsubscribers by the end of the year. The\nbeauty of this method is that you get an\nenchanted diamond gear, which is\narguably better than raw diamonds.\nYou're skipping the entire process of\nmining diamonds, crafting the tools, and\nenchanting them separately. Everything\ncomes pre-enchanted. It's like ordering\ntakeout instead of cooking. Sure, you\ncould spend hours in the kitchen, or you\ncould just not. Now, you might ask, what\nabout situations where you need actual\ndiamonds, not just diamond gear, like\nfor crafting netherite upgrade templates\nor enchanting tables? For netherite\ntemplates, you only need about 40 to 60\ndiamonds total to duplicate enough\ntemplates for a full set of gear. That's\nachievable through any of the mining\nmethods we've covered. And for\nenchanting, you don't actually need an\nenchantment table. Librarian villagers\nsell enchanted books, so you can get any\nenchantment you want through trading and\napply that to an anvil. So, which method\nshould you actually use? Simple. Brand\nnew world, strip mine at Y minus 58\nuntil you get your first diamonds. Got\nsome gear? Hit the caves. Want zero\ndanger? Underwater caves. Late game with\nvillagers? Stop mining. Just trade for\nenchanted diamond gear. And no matter\nwhich method you use, always use fortune\nthree. It can quadruple your diamond\ndrops. That's everything you need. Pick\nyour method, get your diamonds, and I'll\nsee you in the next one.",
+      "techniques": [
+        "branch_mining",
+        "cave_mining",
+        "deep_slate_mining",
+        "exploration"
+      ],
+      "evidence": {
+        "branch_mining": [
+          "strip mine",
+          "strip mining"
+        ],
+        "cave_mining": [
+          "cave",
+          "caves"
+        ],
+        "deep_slate_mining": [
+          "deepslate"
+        ],
+        "exploration": [
+          "exploring"
+        ]
+      },
+      "y_levels": [
+        -64,
+        -58,
+        16
+      ],
+      "new_strategies": [
+        {
+          "strategy_name": "unclassified_strategy",
+          "examples": [
+            "Diamonds don't spawn like they used to."
+          ],
+          "confidence": 0.4,
+          "occurrences": 1,
+          "status": "unclassified"
+        },
+        {
+          "strategy_name": "unclassified_use_some_methods_expose_way_more_diamond_veins_than",
+          "examples": [
+            "This matters because some methods expose way more diamond veins than others."
+          ],
+          "confidence": 0.4,
+          "occurrences": 1,
+          "status": "unclassified"
+        },
+        {
+          "strategy_name": "unclassified_use_water_reduces_visibility_significantly",
+          "examples": [
+            "First, night vision potions are even more important here because water reduces visibility significantly."
+          ],
+          "confidence": 0.4,
+          "occurrences": 1,
+          "status": "unclassified"
+        },
+        {
+          "strategy_name": "unclassified_strategy",
+          "examples": [
+            "Several places have diamonds in chests."
+          ],
+          "confidence": 0.4,
+          "occurrences": 1,
+          "status": "unclassified"
+        },
+        {
+          "strategy_name": "unclassified_place_a_door_underwater_to_create_an_air_pocket",
+          "examples": [
+            "You can place a door underwater to create an air pocket, giving you a place to breathe without needing water breathing potions."
+          ],
+          "confidence": 0.3,
+          "occurrences": 1,
+          "status": "unclassified"
+        },
+        {
+          "strategy_name": "unclassified_use_now_helps_you_breathe_underwater",
+          "examples": [
+            "The same item you used to keep zombies out of your house now helps you breathe underwater."
+          ],
+          "confidence": 0.3,
+          "occurrences": 1,
+          "status": "unclassified"
+        },
+        {
+          "strategy_name": "unclassified_use_this_trick_with_trapdoors_or_even_create_air",
+          "examples": [
+            "On Bedrock Edition, you can also use this trick with trapdoors or even create air pockets with magma blocks."
+          ],
+          "confidence": 0.3,
+          "occurrences": 1,
+          "status": "unclassified"
+        },
+        {
+          "strategy_name": "unclassified_mine_at_normal_speed_underwater",
+          "examples": [
+            "Aqua Affinity on your helmet lets you mine at normal speed underwater."
+          ],
+          "confidence": 0.3,
+          "occurrences": 1,
+          "status": "unclassified"
+        },
+        {
+          "strategy_name": "unclassified_mine_methods_in_the_game",
+          "examples": [
+            "It's genuinely one of the safest and most effective diamond mine methods in the game."
+          ],
+          "confidence": 0.3,
+          "occurrences": 1,
+          "status": "unclassified"
+        }
+      ],
+      "summary": "Known techniques: branch/strip mining, cave mining, deep/deepslate mining, exploration. Mentioned Y levels: -64, -58, 16. New unclassified strategies detected: 9.",
+      "studied_at": 1789942542.4368732
+    },
+    {
+      "status": "studied",
+      "video_id": "pYICncJM2ZM",
+      "url": "https://www.youtube.com/watch?v=pYICncJM2ZM",
+      "title": "BEST WAY TO FIND DIAMONDS In Minecraft 1.21/26.2+ Bedrock And Java!",
+      "channel": "Mod Stop",
+      "length_seconds": 185,
+      "captions_available": true,
+      "caption_language": "a.en",
+      "transcript": "This is the best method for finding\ndiamonds in Minecraft. It's really easy\nto set up and this right here is\neverything that you need. Just a\npickaxe, a trapdoor, some torches, and\nsome food. And regarding the pickaxe, if\nit's enchanted, it's even better.\nFortune three can give you more diamonds\nper diamond ore and efficiency five\nmakes you mine faster. So, without any\nfurther ado, let's get started. And the\nfirst step is digging straight down. But\ndon't worry, don't worry. I'm going to\nshow you really safe way of doing so.\nSo, just stand between two blocks, dig\non the right a couple of blocks down. I\nthink you can dig like four or five. And\nonce you're done, dig on the left as\nwell. So, you're always between two\nblocks. In case there is something\ndangerous, I don't know, like lava or\nsome cave, you can have a lot of time to\nreact to it. So, just keep doing this\nuntil you reach position minus 57.\nAll right. On our way down, we already\nfound some diamonds, but these do not\ncount. Don't worry. Minus 55, minus 56,\nand minus 57. This right here is the\nbest height for diamonds. Now, what\nyou're going to do is dig one block into\nany wall. It doesn't really matter on\nthese bottom blocks. A block on top,\nplace one bottom trapdoor, open it, go\ninside, and close it. If you did\neverything correctly, now you should be\nin crawling mode. And this is really\nimportant for this method. So, now go\ninside this little hole that you dug\nout, take back your trapdoor, and we are\nready. So, into the block that you just\ndug out, what I want you to do is dig\nthree blocks. So, one, two, three. And\non the final block, look to the left,\ndig four blocks or the maximum you can\ndo without going in the tunnel. Turn\nright and do the same thing. And after\ndoing so, we didn't find any diamonds,\ngo back to the middle block again, dig\nthree blocks. So, one, two, three. And\nrepeat the same step. Okay, this is a\nperfect example. If you find some gravel\nor lava, it's not worth it, okay? It's\nnot worth it to keep mining the gravel\nand keep going. So, just skip it. And if\nit is on both sides like this, just go\nto the next side and keep digging. And\nthe torches are just going to be used to\nlight up your tunnels. You don't really\nneed them, to be honest, in survival. No\nmob is going to be able to spawn here.\nSo, it's not really dangerous to keep it\ndark. It's just going to be you in here.\nSo, now I'm just going to keep going\nuntil we find some diamonds. All right,\nI didn't get a lot lucky, but as you can\nsee on one of these veins, I found a\ndiamond ore. So, let me just mine it\nwith my pickaxe, the second one on the\nroof. And I think this is it for this\nvein. By the way, do not leave this\ncrawling mode because that's how we're\nmining. But, if it happens, accidents\nhappen, it's okay. For example, right\nnow I'm standing. Just Okay, this right\nhere is crazy. I did not expect that at\nall, but accidents are really good\nsometimes. But, what you should do is\njust place a trapdoor, go back in again,\nand break the trapdoor again. And yeah,\nthis is pretty much everything about\nthis method. It is really, really\nefficient. It's really safe. And in\nterms of exposure, it is the best method\nso far. So, what are you waiting for?\nGet to mining. Thank you for watching\ntoday's video. I hope you enjoyed it.\nPlease like the video and subscribe to\nthe channel. It was me, Monstah.\nBye-bye.\n>> Wow.",
+      "techniques": [
+        "branch_mining",
+        "cave_mining",
+        "water_lava"
+      ],
+      "evidence": {
+        "branch_mining": [
+          "two block"
+        ],
+        "cave_mining": [
+          "cave"
+        ],
+        "water_lava": [
+          "lava"
+        ]
+      },
+      "y_levels": [],
+      "new_strategies": [
+        {
+          "strategy_name": "unclassified_strategy",
+          "examples": [
+            "This is the best method for finding diamonds in Minecraft."
+          ],
+          "confidence": 0.75,
+          "occurrences": 1,
+          "status": "unclassified"
+        },
+        {
+          "strategy_name": "unclassified_dig_three_blocks",
+          "examples": [
+            "And after doing so, we didn't find any diamonds, go back to the middle block again, dig three blocks."
+          ],
+          "confidence": 0.7,
+          "occurrences": 1,
+          "status": "unclassified"
+        },
+        {
+          "strategy_name": "unclassified_mine_faster",
+          "examples": [
+            "Fortune three can give you more diamonds per diamond ore and efficiency five makes you mine faster."
+          ],
+          "confidence": 0.5,
+          "occurrences": 1,
+          "status": "unclassified"
+        },
+        {
+          "strategy_name": "unclassified_mine_it_with_my_pickaxe_the_second_one_on",
+          "examples": [
+            "So, let me just mine it with my pickaxe, the second one on the roof."
+          ],
+          "confidence": 0.3,
+          "occurrences": 1,
+          "status": "unclassified"
+        }
+      ],
+      "summary": "Known techniques: branch/strip mining, cave mining, water/lava handling. New unclassified strategies detected: 4.",
+      "studied_at": 1789942544.172197
+    },
+    {
+      "status": "studied",
+      "video_id": "DldW3ug7tAQ",
+      "title": "NEW Best Way To Find Diamonds in Minecraft 1.21 (JAVA + BEDROCK)",
+      "channel": "ReytGood",
+      "known_techniques": [],
+      "y_levels": [],
+      "new_strategies": [
+        {
+          "name": "bed_mining",
+          "occurrences": 1,
+          "examples": [
+            "NEW Best Way To Find Diamonds in Minecraft 1.21 (JAVA + BEDROCK) Best way to find diamonds in Minecraft 1.21 Easy Diamond finding methods in Minecraft 1.21!"
+          ],
+          "y_levels": [],
+          "confidence": 0.75
+        },
+        {
+          "name": "diamond_search_strategy",
+          "occurrences": 1,
+          "examples": [
+            "Ultimate minecraft 1.21 diamond ..."
+          ],
+          "y_levels": [],
+          "confidence": 0.5
+        }
+      ],
+      "caption_length": 0,
+      "summary": "New strategies discovered: bed_mining, diamond_search_strategy."
+    },
+    {
+      "status": "studied",
+      "video_id": "xhhZ-RC4Wro",
+      "title": "the REAL best way to find diamonds...",
+      "channel": "camman18",
+      "known_techniques": [],
+      "y_levels": [],
+      "new_strategies": [
+        {
+          "name": "diamond_search_strategy",
+          "occurrences": 1,
+          "examples": [
+            "the REAL best way to find diamonds..."
+          ],
+          "y_levels": [],
+          "confidence": 0.75
+        }
+      ],
+      "caption_length": 0,
+      "summary": "New strategies discovered: diamond_search_strategy."
+    },
+    {
+      "status": "studied",
+      "video_id": "0jpGft4Sx_8",
+      "title": "7 Ways To Find A LOT OF DIAMONDS In Minecraft In 2026 (Java &amp; Bedrock)",
+      "channel": "The Mine Mentor",
+      "known_techniques": [],
+      "y_levels": [],
+      "new_strategies": [
+        {
+          "name": "bed_mining",
+          "occurrences": 1,
+          "examples": [
+            "7 Ways To Find A LOT OF DIAMONDS In Minecraft In 2026 (Java & Bedrock) Join this channel to get access to perks: https://www.youtube.com/channel/UCk_OLZfiwEPuq3aSi08WyxQ/join Video Overview: ..."
+          ],
+          "y_levels": [],
+          "confidence": 0.5
+        }
+      ],
+      "caption_length": 0,
+      "summary": "New strategies discovered: bed_mining."
+    }
+  ],
+  "strategies": [
+    {
+      "video_id": "4eBJzMa62yw",
+      "title": "The ACTUAL BEST Ways to Find Diamonds in Minecraft 26.2+ | Java &amp; Bedrock",
+      "channel": "TheAetherGamer",
+      "published_at": "2025-07-01T16:18:30Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "eT5_IYihoDI",
+      "title": "Easiest way to find a diamonds #minecraft don’t check the sound",
+      "channel": "Riss",
+      "published_at": "2025-06-21T21:27:08Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "xhhZ-RC4Wro",
+      "title": "the REAL best way to find diamonds...",
+      "channel": "camman18",
+      "published_at": "2022-08-08T15:00:40Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "0jpGft4Sx_8",
+      "title": "7 Ways To Find A LOT OF DIAMONDS In Minecraft In 2026 (Java &amp; Bedrock)",
+      "channel": "The Mine Mentor",
+      "published_at": "2024-08-03T06:26:22Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "rkPXt_dKp-w",
+      "title": "BEST MINING METHOD Minecraft 1.21! (Java &amp; Bedrock)",
+      "channel": "BlazedMC - Java",
+      "published_at": "2024-12-20T13:01:10Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "DldW3ug7tAQ",
+      "title": "NEW Best Way To Find Diamonds in Minecraft 1.21 (JAVA + BEDROCK)",
+      "channel": "ReytGood",
+      "published_at": "2026-02-19T19:40:57Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "HjKKN1qidEc",
+      "title": "The BEST Way To Find Diamonds In Minecraft! Bedrock &amp; Java Tutorial!",
+      "channel": "silentwisperer",
+      "published_at": "2023-10-01T20:08:14Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "pYICncJM2ZM",
+      "title": "BEST WAY TO FIND DIAMONDS In Minecraft 1.21/26.2+ Bedrock And Java!",
+      "channel": "Mod Stop",
+      "published_at": "2026-05-23T14:00:26Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "FMDZHW_vR1g",
+      "title": "BEST WAY TO FIND DIAMONDS In Minecraft 1.21 Bedrock And Java!  #minecraft",
+      "channel": "Mod Stop",
+      "published_at": "2024-06-26T14:00:11Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "TGyOqZAsKeo",
+      "title": "FASTEST WAYS TO FIND DIAMONDS IN MINECRAFT",
+      "channel": "SB737",
+      "published_at": "2020-04-14T16:32:58Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "objdyxI7wYw",
+      "title": "In 3 Minutes, You&#39;ll Master Finding DIAMONDS in Minecraft",
+      "channel": "TheBalgam",
+      "published_at": "2026-07-14T19:14:10Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "X7l03SuXwnM",
+      "title": "How to Find Diamonds in Minecraft 1.21 (BEST WAY) | Minecraft 1.21 Diamond Mining Guide",
+      "channel": "TheAetherGamer",
+      "published_at": "2024-06-08T17:07:06Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "3-rbUxNG89I",
+      "title": "Best way to find diamonds #minecraft",
+      "channel": "Riss",
+      "published_at": "2025-08-25T14:16:12Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "Nt-3C1UD13Q",
+      "title": "the EASIEST way to get diamonds.",
+      "channel": "camman18",
+      "published_at": "2023-11-01T15:00:21Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "KkAe-390IzE",
+      "title": "BEST Way to Find Diamonds in Minecraft!",
+      "channel": "Alex2x",
+      "published_at": "2025-08-30T18:28:01Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "I1Qc2vH55P0",
+      "title": "BEST WAY TO FIND DIAMONDS",
+      "channel": "Minecraft",
+      "published_at": "2024-09-07T13:00:17Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "cj2wDiuOdls",
+      "title": "The Old Trick To Finding Minecraft Diamonds",
+      "channel": "RetroGamingNow",
+      "published_at": "2025-10-06T17:40:26Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "A-dLQOBPLRk",
+      "title": "Where To Find Diamonds In Minecraft",
+      "channel": "VIPmanYT",
+      "published_at": "2022-10-07T21:07:13Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "Pqy-HxXnMIs",
+      "title": "How to Find Diamonds Fast in Minecraft 26.1+ | Beginner Guide",
+      "channel": "Valqrin",
+      "published_at": "2026-07-13T15:11:21Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "2L9zc6dMKkw",
+      "title": "How to find Diamonds in The Big 25",
+      "channel": "nowayitsali",
+      "published_at": "2025-08-08T14:35:01Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "dXf6bHFX8n4",
+      "title": "BEST Diamond Mining Method in Minecraft BEDROCK 1.21/26.1+",
+      "channel": "ReytGood2",
+      "published_at": "2026-05-15T12:15:05Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "4WCktvQd_i8",
+      "title": "Diamond Mining Has Changed — Here&#39;s the BEST Method! 1.21+",
+      "channel": "The Aeon Arc",
+      "published_at": "2026-02-22T09:37:17Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "0Ngs7svm7Uw",
+      "title": "MINECRAFT JUST ADDED A NEW WAY TO GET DIAMONDS + CHANGED CAVING FOREVER...",
+      "channel": "wattles",
+      "published_at": "2025-12-27T16:56:46Z",
+      "techniques": [
+        "cave_mining"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "vUWgJ4XYR8I",
+      "title": "the ACTUAL Best Diamond Mining Method",
+      "channel": "Bent",
+      "published_at": "2024-12-05T05:56:53Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "4j--etBK8tE",
+      "title": "2 Ways To Get FULL DIAMOND GEAR In Less Than 1 Hour In Minecraft In 2026",
+      "channel": "The Mine Mentor",
+      "published_at": "2024-10-14T10:05:29Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "2YDtpEetKVg",
+      "title": "Minecraft Diamond Trick",
+      "channel": "CheezyChez",
+      "published_at": "2021-10-04T04:00:02Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "f6JiP2P-yrg",
+      "title": "How To Find Diamonds FAST in Minecraft 🔥 (Latest Version Guide)",
+      "channel": "SUJIT GAMER YT",
+      "published_at": "2026-06-17T10:30:24Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "ZWUc7S5SaWE",
+      "title": "NEW TOP DIAMOND FINDING TIPS For Minecraft Bedrock",
+      "channel": "MC Bedrock Tutorials",
+      "published_at": "2026-05-29T12:00:07Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "NF5KDxDAy2A",
+      "title": "HOW TO GET INFINITE DIAMONDS FAST In Minecraft Bedrock Edition 1.21",
+      "channel": "Supman",
+      "published_at": "2025-05-28T04:00:33Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "5YDpXiZuDnY",
+      "title": "How To Find Diamonds In Minecraft 2026",
+      "channel": "VIPmanYT",
+      "published_at": "2026-01-01T00:00:06Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "jr_W3aYy96Q",
+      "title": "I Mined for 100,000 Blocks in a Straight Line in Minecraft Hardcore!",
+      "channel": "LockDownLife",
+      "published_at": "2022-03-19T12:45:03Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "LrYNvTGxtU8",
+      "title": "The Best DIAMOND BRANCH MINING METHODS For Minecraft 1.21",
+      "channel": "wattles",
+      "published_at": "2024-01-23T18:57:48Z",
+      "techniques": [
+        "branch_mining"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "81_BR7Xf2Ic",
+      "title": "I Broke The World Record For Most Diamonds In Minecraft",
+      "channel": "Carvs",
+      "published_at": "2022-09-22T15:00:03Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "b4SNsfsTI9c",
+      "title": "The Ultimate Minecraft 1.21 Diamond Mining Guide | How to Strip Mine, Cave, Diamond Fossils &amp; More!",
+      "channel": "Eyecraftmc",
+      "published_at": "2022-02-12T15:00:30Z",
+      "techniques": [
+        "cave_mining"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "5SAEwXy9-_g",
+      "title": "15 Tips To Cave Like a Pro in No Time!",
+      "channel": "Star_M",
+      "published_at": "2023-09-10T13:00:02Z",
+      "techniques": [
+        "cave_mining"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "Cu1AHd_dRh8",
+      "title": "How to Mine in Minecraft!",
+      "channel": "RipMonts",
+      "published_at": "2022-11-23T16:15:00Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "9S7g4J93cQM",
+      "title": "Playing Minecraft in the cave looking for diamonds (LINK IN DESCRIPTION)",
+      "channel": "Professor Vomi (FAZBOIS PRODUCTIONS)",
+      "published_at": "2021-11-08T19:20:45Z",
+      "techniques": [
+        "cave_mining"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "rLe-E0MD9c8",
+      "title": "Minecraft Longplay Mining - Relaxing Mining and Cave Exploration - Ore Mining - No Commentary - 1.20",
+      "channel": "SpicyWingsPlz",
+      "published_at": "2024-02-05T16:00:28Z",
+      "techniques": [
+        "cave_mining"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "OtZ2K-bHp7Q",
+      "title": "The Craziest Cave I’ve Ever Seen… (Solo Hardcore Checklist Challenge)",
+      "channel": "CaseOh",
+      "published_at": "2024-12-15T23:00:14Z",
+      "techniques": [
+        "cave_mining"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "mSNMtyfoFlg",
+      "title": "The ONLY MINING GUIDE You Will Need! 1.21/26.1+! Minecraft",
+      "channel": "BlazedMC",
+      "published_at": "2025-05-02T11:01:20Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "uGaKLMnSWoc",
+      "title": "NEW Ultimate Minecraft Mining Guide 26.2+ Copper Age | Best Way To Find Every Ore",
+      "channel": "TheAetherGamer",
+      "published_at": "2025-10-25T17:42:21Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "JrPnfd9SKPw",
+      "title": "The Best Ways To Find Diamonds In Minecraft 26.2!",
+      "channel": "Voltrox",
+      "published_at": "2024-06-25T06:00:10Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "7EcD8EBkqb4",
+      "title": "Easy TNT TUNNEL BORE - Mine DIAMONDS the FUN Way! | Minecraft Java 26.2+",
+      "channel": "SpawnCamped",
+      "published_at": "2026-07-18T13:30:08Z",
+      "techniques": [
+        "branch_mining",
+        "tnt_mining"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "ED3iuM594J8",
+      "title": "How To Find DIAMOND&#39;S In Minecraft PE &amp; java 1.21 &amp; 26.2+🤩 Minecraft Main diamond Kaise dhundhe",
+      "channel": "DEEP PRO GAMER",
+      "published_at": "2026-06-18T12:00:14Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    },
+    {
+      "video_id": "m88SzauNsTA",
+      "title": "The EASIEST Way to Find Diamonds in Minecraft Bedrock",
+      "channel": "Minecraft How To",
+      "published_at": "2026-09-13T09:30:12Z",
+      "techniques": [
+        "unknown"
+      ],
+      "speed_score": null,
+      "reliability_score": null,
+      "resource_efficiency_score": null,
+      "difficulty_score": null,
+      "risk_score": null,
+      "tested": false
+    }
+  ],
+  "discovered_strategies": [
+    {
+      "name": "bed_mining",
+      "status": "learned_candidate",
+      "occurrences": 3,
+      "video_count": 3,
+      "video_ids": [
+        "4eBJzMa62yw",
+        "0jpGft4Sx_8",
+        "DldW3ug7tAQ"
+      ],
+      "examples": [
+        "The ACTUAL BEST Ways to Find Diamonds in Minecraft 26.2+ | Java & Bedrock these are the actual best ways to find diamonds in minecraft 1.21+ / best tutorial on how to find diamonds in minecraft 1.21.7.",
+        "7 Ways To Find A LOT OF DIAMONDS In Minecraft In 2026 (Java & Bedrock) Join this channel to get access to perks: https://www.youtube.com/channel/UCk_OLZfiwEPuq3aSi08WyxQ/join Video Overview: ...",
+        "NEW Best Way To Find Diamonds in Minecraft 1.21 (JAVA + BEDROCK) Best way to find diamonds in Minecraft 1.21 Easy Diamond finding methods in Minecraft 1.21!"
+      ],
+      "y_levels": [],
+      "confidence": 0.688,
+      "created_at": "2026-09-20T22:26:02.025193",
+      "updated_at": "2026-09-20T22:26:11.079460",
+      "tested": false,
+      "experiments": [],
+      "results": [],
+      "average_time": null,
+      "average_diamonds": null,
+      "average_deaths": null,
+      "success_rate": null
+    },
+    {
+      "name": "diamond_search_strategy",
+      "status": "learned_candidate",
+      "occurrences": 2,
+      "video_count": 2,
+      "video_ids": [
+        "xhhZ-RC4Wro",
+        "DldW3ug7tAQ"
+      ],
+      "examples": [
+        "the REAL best way to find diamonds...",
+        "Ultimate minecraft 1.21 diamond ..."
+      ],
+      "y_levels": [],
+      "confidence": 0.625,
+      "created_at": "2026-09-20T22:26:05.040111",
+      "updated_at": "2026-09-20T22:26:11.089968",
+      "tested": false,
+      "experiments": [],
+      "results": [],
+      "average_time": null,
+      "average_diamonds": null,
+      "average_deaths": null,
+      "success_rate": null
+    }
+  ],
+  "experiments": [],
+  "combined_strategies": []
+}

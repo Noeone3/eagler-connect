@@ -1,0 +1,38 @@
+{
+  "status": "studied",
+  "video_id": "objdyxI7wYw",
+  "url": "https://www.youtube.com/watch?v=objdyxI7wYw",
+  "title": "In 3 Minutes, You'll Master Finding DIAMONDS in Minecraft",
+  "channel": "TheBalgam",
+  "length_seconds": 175,
+  "captions_available": true,
+  "caption_language": "a.en",
+  "transcript": "After watching this video, you'll know\neverything about finding diamonds in\nMinecraft. So, enjoy the quick guide as\nI explain by [music] saving your time\nbecause unlike other guides, I won't\nwaste your time, but rather get to the\npoint. There are two ways to find\ndiamonds, mining and looting. Diamond\nores only spawn below Y level 15, and\nthey're most commonly found in Y minus\n59. However, between Y levels minus 62\nand minus 55, lava replaces air blocks.\nSo, if you want to mine safer, just use\nY levels minus 54 and minus 53. [music]\nDiamonds also spawn 50% less when\nexposed to air. Therefore, it's not very\nefficient to look for diamonds in open\nareas, but the cool thing is that this\nrule does not apply for water, which\nmeans aquafer mining yields a higher\nchance of finding diamonds.\nNow, here's the important part most\npeople don't tell you. Diamond\ngeneration is split into four batches.\nYes, four. In order to randomize or\ndistribution, but all of these\ngenerations are based per chunks. By\nsimple logic, mining near the chunk\nedges can reveal veins that have spawned\nseparately from each other and increase\nyour chances. Now that you know how ores\ngenerate, let's look at [music] four\nfamous mining methods. I already\nexplained the first one, which was\naquafer mining. This method [music]\nneeds preparation beforehand, but is the\nsafest one.\nNumber two is strip mining, which relies\non exposing the most area by mining\nsmall tunnels that have two blocks\nbetween each other. You can mine the\nmain tunnel between chunk borders for a\nbetter chance. Number three is crawl\nmining, [music] which is a variation of\nstrip mining by using trapdoors to go to\ncrawling mode. This time, [music] the\nmining process is quicker, but the area\nyou expose is less. So, try to switch\nbetween strip and crawl mining depending\non the situation. You can also choose to\nleave three block distances between your\ntunnels. By doing this, you'll spend\nless time mining and still be able to\nfind most diamond veins nearby, but risk\nmissing veins that are one block wide.\nThe last mining method is a\nmiscellaneous [music] use of tunnel bore\nmachines. These machines use TNT\nduplication to tunnel their way inside\nthe caves. The only good part about them\nis that they work automatically, but in\norder to get a good amount of diamonds,\nyou have to build a lot of them and\nmaintain them in case they run into an\nobstacle like lava because the primary\ngoal of these machines were to dig\ntunnels, not mining diamonds.\nNext, we have finding diamonds by\nlooting.\n>> [music]\n>> Diamonds can be found across 12\nstructures and have become extremely\ncommon thanks to structures such as\nburied treasures with 60% chance of\nspawning, trial chambers where you can\nfind diamonds in five different ways,\nand end cities where it's possible to\nfind seven diamonds from a single\n[music] chest along with diamond tools.\nFor early game, shipwrecks and buried\ntreasures are the fastest ways to find\ndiamonds, while for late game, flying\naround end cities to find diamonds\n[music] is the most efficient option. As\na bonus, high-level armorer or tool\nsmith and weapon [music] smith villagers\nare guaranteed to sell diamond gear, so\nkeep an eye out for them. Let me quickly\nreview what I've said so far so that you\nremember clearly.\nDiamond ore generates best in Y minus 59\nand without being exposed to air. Ore\ngeneration is chunk based, so edges of\nchunks give you a higher chance, and you\ncan use one of these four methods based\non your preferences.\nIf you want to find diamonds by looting,\nburied treasure chests are the fastest\nand most [music] reliable option, but if\nyou need to find a good amount, try\nthese structures instead. Have a good\nday, and I'll see you in the next video.\n[music]",
+  "techniques": [
+    "branch_mining",
+    "cave_mining",
+    "water_lava",
+    "tnt_mining"
+  ],
+  "evidence": {
+    "branch_mining": [
+      "strip mining",
+      "two block"
+    ],
+    "cave_mining": [
+      "cave",
+      "caves"
+    ],
+    "water_lava": [
+      "lava"
+    ],
+    "tnt_mining": [
+      "use tnt"
+    ]
+  },
+  "y_levels": [
+    15
+  ],
+  "summary": "Transcript evidence suggests: branch/strip mining, cave mining, water/lava handling, TNT mining. Mentioned Y levels: 15.",
+  "studied_at": 1789677558.6452434
+}

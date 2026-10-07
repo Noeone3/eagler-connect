@@ -1,0 +1,24 @@
+{
+  "status": "studied",
+  "video_id": "KkAe-390IzE",
+  "url": "https://www.youtube.com/watch?v=KkAe-390IzE",
+  "title": "BEST Way to Find Diamonds in Minecraft!",
+  "channel": "Alex2x",
+  "length_seconds": 19,
+  "captions_available": true,
+  "caption_language": "a.en",
+  "transcript": "When playing Minecraft, sometimes it can\nbe hard searching for diamonds,\nespecially if you're a new player. But\nthe best way to get a lot of diamonds is\nsimple. Make sure you're at Y level 58.\nYou can begin strip mining at this\npoint, and eventually you'll find\ndiamonds. And sometimes, if you're\nlucky, you can find an eight vein, which\nis insanely rare. Just look at me. Hey,\nI'm dripped out in diamond armor.",
+  "techniques": [
+    "branch_mining"
+  ],
+  "evidence": {
+    "branch_mining": [
+      "strip mining"
+    ]
+  },
+  "y_levels": [
+    58
+  ],
+  "summary": "Transcript evidence suggests: branch/strip mining. Mentioned Y levels: 58.",
+  "studied_at": 1789677572.790535
+}

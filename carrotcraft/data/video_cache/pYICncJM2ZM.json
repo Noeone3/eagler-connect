@@ -1,0 +1,68 @@
+{
+  "status": "studied",
+  "video_id": "pYICncJM2ZM",
+  "url": "https://www.youtube.com/watch?v=pYICncJM2ZM",
+  "title": "BEST WAY TO FIND DIAMONDS In Minecraft 1.21/26.2+ Bedrock And Java!",
+  "channel": "Mod Stop",
+  "length_seconds": 185,
+  "captions_available": true,
+  "caption_language": "a.en",
+  "transcript": "This is the best method for finding\ndiamonds in Minecraft. It's really easy\nto set up and this right here is\neverything that you need. Just a\npickaxe, a trapdoor, some torches, and\nsome food. And regarding the pickaxe, if\nit's enchanted, it's even better.\nFortune three can give you more diamonds\nper diamond ore and efficiency five\nmakes you mine faster. So, without any\nfurther ado, let's get started. And the\nfirst step is digging straight down. But\ndon't worry, don't worry. I'm going to\nshow you really safe way of doing so.\nSo, just stand between two blocks, dig\non the right a couple of blocks down. I\nthink you can dig like four or five. And\nonce you're done, dig on the left as\nwell. So, you're always between two\nblocks. In case there is something\ndangerous, I don't know, like lava or\nsome cave, you can have a lot of time to\nreact to it. So, just keep doing this\nuntil you reach position minus 57.\nAll right. On our way down, we already\nfound some diamonds, but these do not\ncount. Don't worry. Minus 55, minus 56,\nand minus 57. This right here is the\nbest height for diamonds. Now, what\nyou're going to do is dig one block into\nany wall. It doesn't really matter on\nthese bottom blocks. A block on top,\nplace one bottom trapdoor, open it, go\ninside, and close it. If you did\neverything correctly, now you should be\nin crawling mode. And this is really\nimportant for this method. So, now go\ninside this little hole that you dug\nout, take back your trapdoor, and we are\nready. So, into the block that you just\ndug out, what I want you to do is dig\nthree blocks. So, one, two, three. And\non the final block, look to the left,\ndig four blocks or the maximum you can\ndo without going in the tunnel. Turn\nright and do the same thing. And after\ndoing so, we didn't find any diamonds,\ngo back to the middle block again, dig\nthree blocks. So, one, two, three. And\nrepeat the same step. Okay, this is a\nperfect example. If you find some gravel\nor lava, it's not worth it, okay? It's\nnot worth it to keep mining the gravel\nand keep going. So, just skip it. And if\nit is on both sides like this, just go\nto the next side and keep digging. And\nthe torches are just going to be used to\nlight up your tunnels. You don't really\nneed them, to be honest, in survival. No\nmob is going to be able to spawn here.\nSo, it's not really dangerous to keep it\ndark. It's just going to be you in here.\nSo, now I'm just going to keep going\nuntil we find some diamonds. All right,\nI didn't get a lot lucky, but as you can\nsee on one of these veins, I found a\ndiamond ore. So, let me just mine it\nwith my pickaxe, the second one on the\nroof. And I think this is it for this\nvein. By the way, do not leave this\ncrawling mode because that's how we're\nmining. But, if it happens, accidents\nhappen, it's okay. For example, right\nnow I'm standing. Just Okay, this right\nhere is crazy. I did not expect that at\nall, but accidents are really good\nsometimes. But, what you should do is\njust place a trapdoor, go back in again,\nand break the trapdoor again. And yeah,\nthis is pretty much everything about\nthis method. It is really, really\nefficient. It's really safe. And in\nterms of exposure, it is the best method\nso far. So, what are you waiting for?\nGet to mining. Thank you for watching\ntoday's video. I hope you enjoyed it.\nPlease like the video and subscribe to\nthe channel. It was me, Monstah.\nBye-bye.\n>> Wow.",
+  "techniques": [
+    "branch_mining",
+    "cave_mining",
+    "water_lava"
+  ],
+  "evidence": {
+    "branch_mining": [
+      "two block"
+    ],
+    "cave_mining": [
+      "cave"
+    ],
+    "water_lava": [
+      "lava"
+    ]
+  },
+  "y_levels": [],
+  "new_strategies": [
+    {
+      "strategy_name": "unclassified_strategy",
+      "examples": [
+        "This is the best method for finding diamonds in Minecraft."
+      ],
+      "confidence": 0.75,
+      "occurrences": 1,
+      "status": "unclassified"
+    },
+    {
+      "strategy_name": "unclassified_dig_three_blocks",
+      "examples": [
+        "And after doing so, we didn't find any diamonds, go back to the middle block again, dig three blocks."
+      ],
+      "confidence": 0.7,
+      "occurrences": 1,
+      "status": "unclassified"
+    },
+    {
+      "strategy_name": "unclassified_mine_faster",
+      "examples": [
+        "Fortune three can give you more diamonds per diamond ore and efficiency five makes you mine faster."
+      ],
+      "confidence": 0.5,
+      "occurrences": 1,
+      "status": "unclassified"
+    },
+    {
+      "strategy_name": "unclassified_mine_it_with_my_pickaxe_the_second_one_on",
+      "examples": [
+        "So, let me just mine it with my pickaxe, the second one on the roof."
+      ],
+      "confidence": 0.3,
+      "occurrences": 1,
+      "status": "unclassified"
+    }
+  ],
+  "summary": "Known techniques: branch/strip mining, cave mining, water/lava handling. New unclassified strategies detected: 4.",
+  "studied_at": 1789942544.172197
+}

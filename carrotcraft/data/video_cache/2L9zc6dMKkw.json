@@ -1,0 +1,35 @@
+{
+  "status": "studied",
+  "video_id": "2L9zc6dMKkw",
+  "url": "https://www.youtube.com/watch?v=2L9zc6dMKkw",
+  "title": "How to find Diamonds in The Big 25",
+  "channel": "nowayitsali",
+  "length_seconds": 107,
+  "captions_available": true,
+  "caption_language": "a.en",
+  "transcript": "What is the best way to find diamonds in\nthe big 25? Now, before the caves and\ncliffs update, we all knew the best way\nto find diamonds was at Y level 11. What\nabout now? Well, Google and chat GPT say\nto mine at Y levelus 59. But I had a\ntheory. Basically, I believe that just\ncasually looking for diamonds in a cave\nis a way better method. So, to test\nthis, I stripped mine at Y levelus 59\nfor 10 minutes using the most efficient\npossible method. Then, I went caving for\nanother 10 minutes and compared the\nresult. Let's start with strip mining.\nHere we are at Y levelus 59 and let's\nsee how many diamonds we can get in 10\nminutes.\nOh my god, I literally just started,\nguys. I'm not even lying. This is\nliterally the worst two blocks I mined.\nLet's not waste time here. Oh my, this\njust might be distracted. Y 59 might be\ndistracted. Already starting off with\nnine diamonds. And that was where my\nluck ran out because for the next 9\nminutes, I did not find a single piece\nof diamond. So, in 10 minutes, I found a\ntotal of nine diamonds. Okay, now on to\nthe caving part. Okay, so I've spawned\nmyself in some random cave, and what\nwe're going to do is I'm going to give\nmyself a sword and some stuff. I didn't\nwant to make it peaceful because then\nit' be too unfair. Let's just go down\nhere.\n[Music]\nOkay. And straight off the bat, just\nlike the last one, we found a few\ndiamonds and more. That's actually\ninsane. Okay. Now, surprisingly, I was\nable to find a lot of diamonds using\nthis method. And I wasn't even able to\nexplore the entire cave in the 10\nminutes. And after 10 minutes of mining\nin a cave, I got a total of 16 diamonds.\nSo, can we safely say that caving is\nbetter than strip mining? No, because it\ngenuinely all depends on luck. I could\nhave found a small cave here, but I got\nlucky and found a big cave. And in the\nstrip mining, I could have found way\nmore diamonds if I had mined in the\nright area, but I was just unlucky. So,\nwas this all just a waste of time?\nProbably. Subscribe.",
+  "techniques": [
+    "branch_mining",
+    "cave_mining",
+    "exploration"
+  ],
+  "evidence": {
+    "branch_mining": [
+      "strip mining",
+      "two block"
+    ],
+    "cave_mining": [
+      "caving",
+      "cave",
+      "caves"
+    ],
+    "exploration": [
+      "explore"
+    ]
+  },
+  "y_levels": [
+    11
+  ],
+  "summary": "Transcript evidence suggests: branch/strip mining, cave mining, exploration. Mentioned Y levels: 11.",
+  "studied_at": 1789677769.1529937
+}

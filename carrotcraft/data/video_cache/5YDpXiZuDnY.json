@@ -1,0 +1,33 @@
+{
+  "status": "studied",
+  "video_id": "5YDpXiZuDnY",
+  "url": "https://www.youtube.com/watch?v=5YDpXiZuDnY",
+  "title": "How To Find Diamonds In Minecraft 2026",
+  "channel": "VIPmanYT",
+  "length_seconds": 161,
+  "captions_available": true,
+  "caption_language": "a.en",
+  "transcript": "Do you want to find diamonds quick and\neasy in 2026 so you can pack your chest\nfull of diamonds? Well, there's a few\ndifferent methods you can use. First of\nall, you can use the branch mining\nmethod. This is when you go underground.\nYou do need to be at a specific Y level\nto be able to find the most diamonds,\nbut I'll teach you that in a second.\nFirst of all, let's go through all the\ndifferent methods you can use. So,\nbranch mining is when you mine and then\noff of that mine, you have tunnels every\ntwo blocks. So, a mine, leave a\ntwo-block gap, and then start another\nmine, and then have a tunnel in the\nmiddle that's connecting all of your\ntunnels together. This allows you to\nsimply pick one of the tunnels, go down\nthere and mine for as long as you want,\nand hopefully you'll find diamonds quite\nquickly. But, if you don't, you can\nalways head back and then pick a\ndifferent tunnel to mine down. You can\nalso do the same thing with a trapdoor,\nand this makes mining a little bit more\nefficient. It's really personal choice,\nthough, if you want to use a trapdoor or\nif you prefer just walking. The next\nmethod is strip mining. Strip mining is\nlike branch mining, but you just mine\nfurther in a straight line rather than\never coming back. The problem with this\nis it leads to a lot of unorganized\nmining compared to branch mining because\nyou just have to keep walking down the\nsame mine to continue down there, or you\njust eventually make other paths anyway\nin random directions, and your mine\nbecomes messy. You can also find\ndiamonds in caves. However, then you\nhave to worry about fighting mobs, and\nyou might get lost easily compared to\nbranch mining or strip mining. And\ndiamonds spawn less commonly if they're\nexposed to air, which means that you\nwon't find as many diamonds in a cave as\nyou will branch mining, but you also\nwon't have to use as much pickaxe\ndurability, and it might be a little\nless boring if you don't enjoy just\nmining in a straight line. Water doesn't\ncount as being exposed to air, though,\nso you could mine for diamonds in water\ncaves, and then you will be able to find\na lot more diamonds than in normal\ncaves. However, you do also have to\nworry about drowning, so you're going to\nneed to have either a water breathing\npotion or some other way not to drown.\nFrom my experience, the best method to\nbe able to find diamonds is branch\nmining, but no matter what method you\nchoose, you need to enable your\ncoordinates and mine at the right level.\nIf you're on Bedrock, hit the pause\nbutton, go to settings, and then go to\ngeneral. Scroll down until you see the\nshow coordinates option and enable this.\nIf you're on Java Edition, simply hit\nthe F3 key and you'll be able to see\nyour coordinates. Once you've enabled\nyour coordinates, you need to go down to\nY level minus 53. If you don't want to\nhave to worry about lava lakes. However,\nif you don't care about lava and you\nwant to find slightly more diamonds, you\ncan mine at Y minus 58 instead. Y minus\n53 is the best level overall though for\nthe majority of players. Of course, if\nyou've never found diamonds before, you\nonly have an iron pickaxe but as soon as\nyou can upgrade this to a diamond one.\nAnd when you can enchant that with\nfortune three as this will give you way\nmore diamonds than just using a\nnon-enchanted pickaxe. And make sure you\nadd mending to your pickaxe as soon as\npossible. To learn how to get mending,\ncheck out the video on screen.",
+  "techniques": [
+    "branch_mining",
+    "cave_mining",
+    "water_lava"
+  ],
+  "evidence": {
+    "branch_mining": [
+      "branch mining",
+      "strip mining",
+      "two block"
+    ],
+    "cave_mining": [
+      "cave",
+      "caves"
+    ],
+    "water_lava": [
+      "lava"
+    ]
+  },
+  "y_levels": [],
+  "summary": "Transcript evidence suggests: branch/strip mining, cave mining, water/lava handling.",
+  "studied_at": 1789764546.8063188
+}

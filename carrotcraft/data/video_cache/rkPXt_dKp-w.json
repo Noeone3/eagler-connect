@@ -1,0 +1,31 @@
+{
+  "status": "studied",
+  "video_id": "rkPXt_dKp-w",
+  "url": "https://www.youtube.com/watch?v=rkPXt_dKp-w",
+  "title": "BEST MINING METHOD Minecraft 1.21! (Java & Bedrock)",
+  "channel": "BlazedMC - Java",
+  "length_seconds": 131,
+  "captions_available": true,
+  "caption_language": "a.en",
+  "transcript": "[Music]\nhey there welcome to the channel today\nwe're going over the best way to mine\ndiamonds in 1.21 Edition now diamonds\nare found between the levels y16 and\ny64 most people will recommend that you\nmine at\ny59 so you're just above the Bedrock\nhowever there's a lot of lava at this\nlevel so I recommend you mine a little\nbit higher up at y level neg 53 you\nstill get a ton of diamonds but you just\nmake it over top of that\nlava this method is very simple and all\nit requires is a single trapo you want\nto place it down stand near it and then\nopen it up and it'll push you into a one\nby one hole and that is the level that\nyou're going to want to strip mine at\nyou can even break the trapo to pick it\nup so you don't have to waste any\nresources now the reason we do this is\npretty simple when you break two blocks\nin traditional strip mining you can see\nsix and when you break one block like\nthis you see four giving you a better\nblocks broken to blocks scene ratio on\ntop of that when you're breaking you\nwant to go as far as you can to one side\nand the other which will be five blocks\nin both directions the reason we do this\nis so we can see a lot more blocks\ncompared to if we were just going in a\nhorizontal\nDirection now you want to do this every\ntwo blocks to make sure when we dig out\nthose strips you don't see the same\nblocks twice you can keep doing this\nprocess forever and the best part about\nit is it doesn't require any hunger\nbecause technically you're not\nrunning and one more thing if your items\nfall down but you you don't feel like\ndoing the trapo thing again all you have\nto do is place down some blocks and your\nitems are going to come up into your\ninventory now to show you guys the rates\nI'm going to do a 5minute test using\nthis Method Keep in mind this test is\nnot done using any type of Fortune and\nonly an efficiency 3 iron\n[Music]\npickaxe in just 5 minutes of using this\nmethod I was able to find 12 diamonds\nwhich is over 140 Dam diamonds an hour\nand easily over 300 an hour if you have\nFortune well that's all for today good\nluck finding diamonds and subscribe to\nthe channel for weekly videos like this\none blaz MC out",
+  "techniques": [
+    "branch_mining",
+    "water_lava"
+  ],
+  "evidence": {
+    "branch_mining": [
+      "strip mine",
+      "strip mining",
+      "two block"
+    ],
+    "water_lava": [
+      "lava"
+    ]
+  },
+  "y_levels": [
+    59
+  ],
+  "new_strategies": [],
+  "summary": "Known techniques: branch/strip mining, water/lava handling. Mentioned Y levels: 59.",
+  "studied_at": 1789942540.5521424
+}

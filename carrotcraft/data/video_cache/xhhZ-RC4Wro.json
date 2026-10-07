@@ -1,0 +1,27 @@
+{
+  "status": "studied",
+  "video_id": "xhhZ-RC4Wro",
+  "url": "https://www.youtube.com/watch?v=xhhZ-RC4Wro",
+  "title": "the REAL best way to find diamonds...",
+  "channel": "camman18",
+  "length_seconds": 35,
+  "captions_available": true,
+  "caption_language": "a.en",
+  "transcript": "if you mind a lot in the new caves\nyou've probably noticed something you\nwalk into a giant cave and see a bunch\nof diamonds but when you go to mine them\nit's only one or two in old versions\nyou'd commonly get veins of six seven or\neight but it seems to never happen\nanymore this is due to a sneaky change\nin diamond generation right here diamond\ndoor is more frequent unexposed to air\nmeaning you'll find these large diamond\nveins while strip mining but it's still\nless efficient so why is this info\nhelpful well underwater caves and\naquifers have a bunch of visible\ndiamonds unexposed to air meaning the\nbest place to find a bunch of diamonds\nis underwater caves",
+  "techniques": [
+    "branch_mining",
+    "cave_mining"
+  ],
+  "evidence": {
+    "branch_mining": [
+      "strip mining"
+    ],
+    "cave_mining": [
+      "cave",
+      "caves"
+    ]
+  },
+  "y_levels": [],
+  "summary": "Transcript evidence suggests: branch/strip mining, cave mining.",
+  "studied_at": 1789764560.0424292
+}
